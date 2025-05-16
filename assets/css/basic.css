@@ -22,7 +22,7 @@ body {
   
   /* Link styles */
   a {
-    color: #ff8c00; /* Orange */
+    color: #2A6F6F; /* Orange */
     text-decoration: none;
   }
   
@@ -31,12 +31,13 @@ body {
   }
   
   a:visited {
-    color: #d67300; /* Slightly darker orange for visited links */
+    color: #084D4D; /* Slightly darker orange for visited links */
   }
 
   blockquote {
     padding-left: 20px;
-    border-left: 4px solid #d34f00; /* Change the color as needed */
+    border-left: 4px solid #084D4D; /* Change the color as needed */
+    border-left: 4px solid #084D4D; /* Change the color as needed */
     margin: 20px 0;
     font-style: italic;
   }
