@@ -1,0 +1,21 @@
+#+TITLE: The Solar Empire
+#+NICK: SolarPrincess
+#+DESCRIPTION: Game designer, LGBT activist, mathematician, Social Justice Rogue, Discordian witch, hobbyist doctor (yes)
+#+AVATAR: https://thesolarprincess.github.io/attachment/images/userpic.png
+#+LINK: https://thesolarprincess.site
+#+LINK:  https://thesolarprincess.github.io
+#+FOLLOW: Andros https://andros.dev/static/social.org
+#+CONTACT: tsolarprincess@gmail.com
+#+CONTACT: briar://abd3kckh6f3oq4kwj52s5podkkk4pbs4i4rdo5asuu6sjojiigvew
+#+CONTACT: https://t.me/TSolarPrincess
+
+* Posts
+**
+:PROPERTIES:
+:ID:  2025-10-16T23:00:00-0300
+:LANG: en
+:END:
+
+Hello, universe!
+I am The Solar Princess. I very much like the idea of Org Social, and I‘ll repost my blog here. I mostly write about psychiatry, game design, politics.
+Posts are available at [[http://thesolarprincess.site][my website]]; I will start reposting them here. Please react/reply if you are reading this, as I want to know you.
