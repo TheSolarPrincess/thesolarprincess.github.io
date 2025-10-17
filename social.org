@@ -49,3 +49,13 @@ Whatever question you think of of the form “what only the real NPC would know�
 But there is a creative solution for a resourceful protagonist! Just ask him for the answer to the riddle. The original can simply tell it to you, you can verify that the answer is correct, and you would know it's the original. But the impostor doesn't know the answer! He can probe your thoughts for the riddle, but he can't learn the answer, because you don't know it either. He knows what you expect to hear, but he can never know the exact words — it's a one-way function, you can check if the answer is correct, but you can't find the answer. The impostor won't be able to answer the riddle.
 
 It would be cool to add ZKP to the mix, so that you can repeat the trick any number of times — otherwise it only works once; if you learn the answer, every further impostor would know it as well. But you can make your players to carry code books with riddles for each other, that would be amazing.
+
+**
+:PROPERTIES:
+:ID: 2025-10-17T19:32:13-0300
+:LANG: en
+:TAGS:
+:CLIENT: org-social.el
+:END:
+
+So, err, I‘m using org-social.el, and it‘s not clear at all if a post in my timeline is its own post or a reply (to me or otherwise)? I have to enter the profile and read the raw file and look at the reply link. Is it supposed to be like that?
