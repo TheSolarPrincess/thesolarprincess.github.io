@@ -54,8 +54,30 @@ It would be cool to add ZKP to the mix, so that you can repeat the trick any num
 :PROPERTIES:
 :ID: 2025-10-17T19:32:13-0300
 :LANG: en
-:TAGS:
 :CLIENT: org-social.el
 :END:
 
 So, err, I‘m using org-social.el, and it‘s not clear at all if a post in my timeline is its own post or a reply (to me or otherwise)? I have to enter the profile and read the raw file and look at the reply link. Is it supposed to be like that?
+
+**
+:PROPERTIES:
+:ID: 2025-10-17T23:51:37-0300
+:LANG: en
+:CLIENT: org-social.el
+:END:
+
+Re: [[https://files.catbox.moe/gp6pk8.webp][screenshot]] [[https://flyinglionwithabook.substack.com/p/humes-argument-against-miracles-is][source]]
+
+Inability to distinguish between A->B and B->A seems to me to be the single most common logical fallacy you can see in the wild. Even when people write out their arguments step-by-step, they can‘t avoid it; not to mention informal speech. Even those who think of themselves as intellectuals have trouble understanding that every apple is a fruit but not every fruit is an apple.
+
+**
+:PROPERTIES:
+:ID: 2025-10-18T21:22:50-0300
+:LANG: en:CLIENT: org-social.el
+:REPLY_TO: https://johnhame.link/social.org#2025-10-18T23:57:21+0100
+:POLL_OPTION: Laptop keyboard
+:END:
+
+I‘m on a laptop. Never had a fancy keyboard, even when on desktop, because my hardware doesn‘t last very long. I‘m just physically very destructive. Even for my computer chair, I use a stool; any fancy chair gets wrecked within a couple months.
+
+Yes, I strongly spiritually identify with the fire-benders.
