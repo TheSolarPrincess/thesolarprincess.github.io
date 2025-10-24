@@ -6,8 +6,7 @@
 #+LINK:  https://thesolarprincess.github.io
 #+FOLLOW: Andros https://andros.dev/static/social.org
 #+FOLLOW: https://teoten.com/social.org
-#+CONTACT: tsolarprincess@gmail.com
-#+CONTACT: briar://abd3kckh6f3oq4kwj52s5podkkk4pbs4i4rdo5asuu6sjojiigvew
+#+CONTACT: mailto:tsolarprincess@gmail.com
 #+CONTACT: https://t.me/TSolarPrincess
 
 * Posts
@@ -73,7 +72,8 @@ Inability to distinguish between A->B and B->A seems to me to be the single most
 **
 :PROPERTIES:
 :ID: 2025-10-18T21:22:50-0300
-:LANG: en:CLIENT: org-social.el
+:LANG: en
+:CLIENT: org-social.el
 :REPLY_TO: https://johnhame.link/social.org#2025-10-18T23:57:21+0100
 :POLL_OPTION: Laptop keyboard
 :END:
@@ -81,3 +81,12 @@ Inability to distinguish between A->B and B->A seems to me to be the single most
 I‘m on a laptop. Never had a fancy keyboard, even when on desktop, because my hardware doesn‘t last very long. I‘m just physically very destructive. Even for my computer chair, I use a stool; any fancy chair gets wrecked within a couple months.
 
 Yes, I strongly spiritually identify with the fire-benders.
+
+**
+:PROPERTIES:
+:ID: 2025-10-24T12:33:24-0300
+:CLIENT: org-social.el
+:REPLY_TO: https://andros.dev/static/social.org#2025-10-22T12:47:33+0200
+:END:
+
+Decentralization is always better!
