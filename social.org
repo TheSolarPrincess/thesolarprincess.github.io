@@ -90,3 +90,12 @@ Yes, I strongly spiritually identify with the fire-benders.
 :END:
 
 Decentralization is always better!
+
+**
+:PROPERTIES:
+:ID: 2025-10-30T21:48:49-0300
+:CLIENT: org-social.el
+:REPLY_TO: https://codeberg.org/eludom/org-social/raw/branch/main/social.org#2025-10-30T17:05:34-0400
+:END:
+
+Elfeed is so much better than anything else I‘ve tried that it‘s not even funny.
