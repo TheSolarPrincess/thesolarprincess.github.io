@@ -99,3 +99,23 @@ Decentralization is always better!
 :END:
 
 Elfeed is so much better than anything else I‘ve tried that it‘s not even funny.
+
+**
+:PROPERTIES:
+:ID: 2025-10-31T19:29:43-0300
+:CLIENT: org-social.el
+:REPLY_TO: https://zweili.ch/org-social/social.org#2025-10-31T20:04:14+0100
+:END:
+
+Yeah, Magit is great to learn Git, and I think more things should be structured that way.
+I remember before I kmew about Magit, I was teaching Git to some high schoolers, and I was thinking that a legible UI for Git that can do anything without obscuring what‘s going on under the hood would have been awesome. My wish retroactively came true!
+
+**
+:PROPERTIES:
+:ID: 2025-10-31T19:31:52-0300
+:CLIENT: org-social.el
+:END:
+
+I‘ve never celebrated Halloween because it‘s not really a thing in my country.
+Then I moved to Argentina and I expected to celebrate, but it seems like no one is doing Halloween here either.
+Sad
