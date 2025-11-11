@@ -119,3 +119,12 @@ I remember before I kmew about Magit, I was teaching Git to some high schoolers,
 I‘ve never celebrated Halloween because it‘s not really a thing in my country.
 Then I moved to Argentina and I expected to celebrate, but it seems like no one is doing Halloween here either.
 Sad
+
+**
+:PROPERTIES:
+:ID: 2025-11-11T03:50:10-0300
+:LANG: en
+:CLIENT: org-social.el
+:END:
+
+There is a language field in org-social.el. Do people filter by language? If I start posting in Russian, would I just litter the feeds of people who don‘t speak Russian?
