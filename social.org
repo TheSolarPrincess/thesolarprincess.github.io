@@ -184,3 +184,32 @@ You're Spider-Man hanging upside-down, and you want to give someone a thumbs-up 
 
 - [ ] Up relative to you, down relative to them
 - [ ] Down relative to you, up relative to them
+
+**
+:PROPERTIES:
+:ID: 2025-12-03T18:06:44-0300
+:CLIENT: org-social.el
+:REPLY_TO: https://host.org-social.org/andros/social.org#2025-12-03T19:40:49+0100
+:MOOD: 😉
+:END:
+
+
+**
+:PROPERTIES:
+:ID: 2025-12-03T19:34:26-0300
+:LANG: 
+:POLL_OPTION: Yes
+:CLIENT: org-social.el
+:REPLY_TO: https://host.org-social.org/andros/social.org#2025-11-26T09:03:48+0100
+:MOOD: 
+:END:
+
+
+**
+:PROPERTIES:
+:ID: 2025-12-03T19:35:24-0300
+:CLIENT: org-social.el
+:REPLY_TO: https://teletyp.ist/social.org#2025-11-25T21:18:56+0100
+:MOOD: 💜
+:END:
+
