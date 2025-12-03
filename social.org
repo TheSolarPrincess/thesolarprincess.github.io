@@ -171,3 +171,16 @@ Using Emacs made me understand why Tinkers in Worm don't give their tech to team
 :END:
 
 [[org-social:https://host.org-social.org/andros/social.org][andros]], what is the least insane way to have it displayed at the top of my agenda, before all the actual afenda stuff? I‘m using org-super-agenda
+
+**
+:PROPERTIES:
+:ID: 2025-12-03T16:01:46-0300
+:LANG: en
+:CLIENT: org-social.el
+:POLL_END: 2025-12-06T16:01:46-0300
+:END:
+
+You're Spider-Man hanging upside-down, and you want to give someone a thumbs-up 👍. Will you point the finger...
+
+- [ ] Up relative to you, down relative to them
+- [ ] Down relative to you, up relative to them
