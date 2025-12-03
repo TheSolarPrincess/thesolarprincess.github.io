@@ -146,6 +146,7 @@ I have finally coded an RSS feed for my blog, automatically generated on org-htm
 :PROPERTIES:
 :ID: 2025-12-02T21:46:32-0300
 :LANG: en
+:TAGS: emacs
 :CLIENT: org-social.el
 :END:
 
@@ -155,6 +156,7 @@ Using Emacs made me understand why Tinkers in Worm don't give their tech to team
 :PROPERTIES:
 :ID: 2025-12-03T14:07:12-0300
 :CLIENT: org-social.el
+:TAGS: emacs rss
 :REPLY_TO: https://host.org-social.org/andros/social.org#2025-12-03T12:51:33+0100
 :END:
 
@@ -213,3 +215,69 @@ You're Spider-Man hanging upside-down, and you want to give someone a thumbs-up 
 :MOOD: 💜
 :END:
 
+
+**
+:PROPERTIES:
+:ID: 2025-12-03T19:45:34-0300
+:LANG: en
+:TAGS: gaming
+:CLIENT: org-social.el
+:MOOD:
+:TAGS: gaming
+:END:
+
+The experience of playing a Japanese game:
+
+#+BEGIN_QUOTE
+Player: clicks on NPC
+
+NPC: Hi! (three-second pause) I sell potions! (three-second pause) Do you want to buy a potion?
+
+Player: no thinking: damn, I misclicked, I wanted to buy potions
+
+NPC: All right! (three-second pause) If you want to buy potions, talk to me!
+
+Player: clicks on NPC
+
+NPC: Hi! (three-second pause) I sell potions! (three-second pause) Do you want to buy a potion?
+
+Player: yes
+
+NPC: Great! I’ll show you the potions now (three-second pause) Which potion do you want to buy?
+
+Player: healing potion
+
+NPC: Great! A healing potion costs 300 rupees. (three-second pause) Do you agree to that price?
+
+Player: yes
+
+NPC: Good, here is your healing potion! (ten-second unskippable animation of the potion appearing in the inventory) Do you want to buy anything else?
+
+Player: yes
+
+NPC: Great! I’ll show you the potions now (three-second pause) Which potion do you want to buy?
+
+Player: healing potion
+
+NPC: Great! A healing potion costs 300 rupees. (three-second pause) Do you agree to that price?
+
+Player: yes
+
+NPC: Good, here is your healing potion! (ten-second unskippable animation of the potion appearing in the inventory) Do you want to buy anything else?
+
+Player: No
+
+NPC: All right! (three-second pause) If you want to buy potions, talk to me!
+
+Player: ok
+
+Player: walks two steps away from the NPC
+
+Another NPC: Oh! (three-second pause) How nice that I saw you! (three-second pause) Have I told you that you can use A button to talk to NPCs? (three-second pause) Some even sell potions!
+
+Player: throws the controller the fuck away
+#+END_QUOTE
+
+---
+
+Why are Japanese games like this? Breath of the Wild, Persona, Pikmin, Pokémon, Ni no Kuni — they're all allergic to convenience. Every tiny thing triggers long dialogues which, even if you skip and button mash through them, still take about three seconds per line, and they keep repeating and repeating and REPEATING. If you click the wrong thing by accident — you’ve lost a whole minute of your life. When I tried playing Pikmin 4, I was constantly annoyed at the beginning that I couldn’t get five seconds of uninterrupted gameplay without a break for some very slow bullshit. The Japanese need an ethnic version of Half-Life 2 to show them that players have enough IQ to walk and listen at the same time
