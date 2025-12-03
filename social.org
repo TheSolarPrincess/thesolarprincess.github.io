@@ -170,7 +170,7 @@ Using Emacs made me understand why Tinkers in Worm don't give their tech to team
 :MOOD:
 :END:
 
-[[org-social:https://host.org-social.org/andros/social.org][andros]], what is the least insane way to have it displayed at the top of my agenda, before all the actual afenda stuff? I‘m using org-super-agenda
+[[org-social:https://host.org-social.org/andros/social.org][andros]], what is the least insane way to have it displayed at the top of my agenda, before all the actual agenda stuff? I‘m using org-super-agenda
 
 **
 :PROPERTIES:
