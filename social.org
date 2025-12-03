@@ -139,3 +139,12 @@ There is a language field in org-social.el. Do people filter by language? If I s
 I have finally coded an RSS feed for my blog, automatically generated on org-html-export, works perfect with Elfeed. Try it!
 [[https://thesolarprincess.site/feed_en.rss][Russian]]
 [[https://thesolarprincess.site/feed_en.rss][English]]
+
+**
+:PROPERTIES:
+:ID: 2025-12-02T21:46:32-0300
+:LANG: en
+:CLIENT: org-social.el
+:END:
+
+Using Emacs made me understand why Tinkers in Worm don't give their tech to teammates. Some things really do only work because of your constant tinkering, and would spontaneously combust if you give them to anyone else.
