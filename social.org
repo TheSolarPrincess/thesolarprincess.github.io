@@ -128,3 +128,14 @@ Sad
 :END:
 
 There is a language field in org-social.el. Do people filter by language? If I start posting in Russian, would I just litter the feeds of people who don‘t speak Russian?
+
+**
+:PROPERTIES:
+:ID: 2025-12-02T21:36:59-0300
+:LANG: en
+:CLIENT: org-social.el
+:END:
+
+I have finally coded an RSS feed for my blog, automatically generated on org-html-export, works perfect with Elfeed. Try it!
+[[https://thesolarprincess.site/feed_en.rss][Russian]]
+[[https://thesolarprincess.site/feed_en.rss][English]]
