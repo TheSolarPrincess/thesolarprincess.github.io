@@ -148,3 +148,12 @@ I have finally coded an RSS feed for my blog, automatically generated on org-htm
 :END:
 
 Using Emacs made me understand why Tinkers in Worm don't give their tech to teammates. Some things really do only work because of your constant tinkering, and would spontaneously combust if you give them to anyone else.
+
+**
+:PROPERTIES:
+:ID: 2025-12-03T14:07:12-0300
+:CLIENT: org-social.el
+:REPLY_TO: https://host.org-social.org/andros/social.org#2025-12-03T12:51:33+0100
+:END:
+
+@andros, org-publish. RSS using a Babashka utility. I plan to upload the full source code, once I clean it up and remove the hardcoded personal data and other stuff; right now generating different language versions is quite spaghetti. I‘ll post the github here when I‘m done.
