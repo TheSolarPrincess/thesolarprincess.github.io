@@ -140,6 +140,8 @@ I have finally coded an RSS feed for my blog, automatically generated on org-htm
 [[https://thesolarprincess.site/feed_en.rss][Russian]]
 [[https://thesolarprincess.site/feed_en.rss][English]]
 
+(if you speak both languages, pick Russian)
+
 **
 :PROPERTIES:
 :ID: 2025-12-02T21:46:32-0300
@@ -157,3 +159,15 @@ Using Emacs made me understand why Tinkers in Worm don't give their tech to team
 :END:
 
 [[org-social:https://host.org-social.org/andros/social.org][andros]], org-publish. RSS using a Babashka utility. I plan to upload the full source code, once I clean it up and remove the hardcoded personal data and other stuff; right now generating different language versions is quite spaghetti. I‘ll post the github here when I‘m done.
+
+**
+:PROPERTIES:
+:ID: 2025-12-03T15:49:37-0300
+:LANG:
+:TAGS:
+:CLIENT: org-social.el
+:REPLY_TO: https://host.org-social.org/andros/social.org#2025-12-03T12:47:48+0100
+:MOOD:
+:END:
+
+[[org-social:https://host.org-social.org/andros/social.org][andros]], what is the least insane way to have it displayed at the top of my agenda, before all the actual afenda stuff? I‘m using org-super-agenda
