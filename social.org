@@ -9,6 +9,7 @@
 #+GROUP: Emacs https://org-social-relay.andros.dev
 #+GROUP: Random https://org-social-relay.andros.dev
 #+GROUP: Org Mode https://org-social-relay.andros.dev
+#+GROUP: Org Social https://org-social-relay.andros.dev
 #+CONTACT: mailto:tsolarprincess@gmail.com
 #+CONTACT: https://t.me/TSolarPrincess
 
@@ -236,7 +237,7 @@ Player: clicks on NPC
 
 NPC: Hi! (three-second pause) I sell potions! (three-second pause) Do you want to buy a potion?
 
-Player: no thinking: damn, I misclicked, I wanted to buy potions
+Player: no /thinking: damn, I misclicked, I wanted to buy potions/
 
 NPC: All right! (three-second pause) If you want to buy potions, talk to me!
 
@@ -289,7 +290,7 @@ Why are Japanese games like this? Breath of the Wild, Persona, Pikmin, Pokémon,
 :PROPERTIES:
 :ID: 2025-12-03T22:12:09-0300
 :LANG: 
-:TAGS: 
+:GROUP: Org Social https://org-social-relay.andros.dev
 :CLIENT: org-social.el
 :MOOD: 
 :END:
