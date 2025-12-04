@@ -324,7 +324,6 @@ They call me Cluster Bomb 'cause my Cluster B personality disorders pose risks t
 :LANG: 
 :TAGS: 
 :CLIENT: org-social.el
-:GROUP: Random https://org-social-relay.andros.dev
 :MOOD: 
 :END:
 
