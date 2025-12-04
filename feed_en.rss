@@ -139,7 +139,7 @@ But this idea is only true because it‘s almost tautological. It doesn‘t real
 &lt;/p&gt;
 
 
-&lt;figure id="org3910f86"&gt;
+&lt;figure id="org7a2c5a8"&gt;
 &lt;img src="../../attachment/images/psychometaphysics/physicists.png" alt="physicists.png" width="300px" align="center"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -172,7 +172,7 @@ The idea that everything can be reduced to physics is also an “ism,” specifi
 &lt;/p&gt;
 
 
-&lt;figure id="orgcb697cb"&gt;
+&lt;figure id="orgdaa5dd6"&gt;
 &lt;img src="../../attachment/images/psychometaphysics/hanson.png" alt="hanson.png" width="500px" align="center"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -275,7 +275,7 @@ As ongoing cultural exchange continued, many Westerners noticed that meditation 
 &lt;/p&gt;
 
 
-&lt;figure id="org03d419a"&gt;
+&lt;figure id="org6795305"&gt;
 &lt;img src="../../attachment/images/psychometaphysics/thingjapanen.png" alt="thingjapanen.png" width="400px" align="center"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -1661,7 +1661,7 @@ I even found a comment on Reddit, from a trans girl reporting feeling much worse
 
 
 
-&lt;figure id="org860e20e"&gt;
+&lt;figure id="org92c3746"&gt;
 &lt;img src="../../attachment/images/identity/estradiol.webp" alt="estradiol.webp" width="500px"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -1847,7 +1847,7 @@ I was elated when I played &lt;i&gt;Pathfinder: Wrath of the Righteous&lt;/i&gt;
 
 
 
-&lt;figure id="org7098dd4"&gt;
+&lt;figure id="org0f94fce"&gt;
 &lt;img src="../../attachment/images/rpg/xkcdyears.png" alt="xkcdyears.png" width="100px" align="center"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -1866,7 +1866,7 @@ Time after time, I end up looking like a clown who lost a bet. This happens in R
 
 
 
-&lt;figure id="orge97d201"&gt;
+&lt;figure id="orgd5dec55"&gt;
 &lt;img src="../../attachment/images/rpg/peterclown.png" alt="peterclown.png" width="400px" align="center"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -1888,7 +1888,7 @@ Even outside of video games, this idea is catching on. In &lt;i&gt;D&amp;amp;D O
 &lt;h2 id="orga301197"&gt;Enemy Gear Shouldn't Be Lootable At All&lt;/h2&gt;
 &lt;div class="outline-text-2" id="text-orga301197"&gt;
 
-&lt;figure id="orgee28264"&gt;
+&lt;figure id="orgd2cfda4"&gt;
 &lt;img src="../../attachment/images/rpg/blades.png" alt="blades.png" width="400px" align="center"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2469,7 +2469,23 @@ But there is a creative solution for a resourceful protagonist! Just ask him for
 It would be cool to add ZKP to the mix, so that you can repeat the trick any number of times — otherwise it only works once; if you learn the answer, every further impostor would know it as well. But you can make your players to carry code books with riddles for each other, that would be amazing.&lt;br&gt;
 &lt;/p&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/cryptoriddle.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Taste is an underappreciated component of video game graphics</title><description>
+</description><link>https://thesolarprincess.site/blog/en-en/cryptoriddle.html</link><author>inbox@thesolarprincess.site</author></item><item><title>On bad astronomy and words</title><description>
+&lt;div id="content" class="content"&gt;
+&lt;p&gt;
+John is an astronomer. A really awesome astronomer — he knows everything about stars, planets, zodiacs, and whatever else astronomers know (I’m not an astronomologist). If you need to calculate the distance to a star, figure out how to build a plane that works on Mars, or process telescope data to find habitable planets — he’s the guy you’d mean when you say “I know a guy”. Oh, and John lives in 2005, before Pluto was reclassified as not a planet.&lt;br&gt;
+He’s writing a book about the planets in the Solar System, comparing their statistics. In the chapter on planet sizes, he writes: “The smallest planet in the Solar System is about 2400 kilometers in diameter,” meaning Pluto.&lt;br&gt;
+Another astronomer, Jack, finds this book in 2010. He reads the sentence: “The smallest planet in the Solar System is about 2400 kilometers in diameter.” Jack knows Pluto isn’t a planet, so he believes the smallest planet in the Solar System is Mercury, with a diameter of about 4900 kilometers. He reads it and thinks: “The smallest planet in the Solar System is 4900 kilometers across. But John writes that the smallest planet in the Solar System is 2400 kilometers in diameter. That’s a huge discrepancy! He tried to measure a planet and got it wrong by almost a factor of two! Clearly John is a terrible astronomer if he can’t even get the size of a planet right.”&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+Yet John is actually an excellent astronomer. He only got one rather unimportant classification wrong. The reasoning “The smallest planet is Mercury, and John thinks the smallest planet is 2400 kilometers in diameter, therefore John thinks Mercury is 2400 kilometers in diameter” is not as logically valid an inference as it sounds.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+…Okay, why is this seemingly trivial bit written here? As it turns out, for many people this reasoning isn’t nearly as obvious as it is to me. After hearing conclusions of this kind for the hundrendth time, on the hundred and first I’d rather just write a standard response on my blog and link to it from now on.&lt;br&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+</description><link>https://thesolarprincess.site/blog/en-en/badwords.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Taste is an underappreciated component of video game graphics</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 Your tongue knows what everything tastes like.&lt;br&gt;
@@ -2498,7 +2514,7 @@ Here are some random games at different levels of graphical realism. All tests w
 &lt;h3 id="orgfba3e09"&gt;Skyrim&lt;/h3&gt;
 &lt;div class="outline-text-3" id="text-orgfba3e09"&gt;
 
-&lt;figure id="org7280321"&gt;
+&lt;figure id="orgfe65042"&gt;
 &lt;img src="../../attachment/images/taste/skyrim.png" alt="skyrim.png" width="600px"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2516,7 +2532,7 @@ Now bad! Everything feels sort of muted, as if shrink-wrapped, but with a bit of
 &lt;h3 id="orge2a812d"&gt;Morrowind&lt;/h3&gt;
 &lt;div class="outline-text-3" id="text-orge2a812d"&gt;
 
-&lt;figure id="org3eeeadf"&gt;
+&lt;figure id="orgccfeac3"&gt;
 &lt;img src="../../attachment/images/taste/morrowind.png" alt="morrowind.png" width="600px"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2534,13 +2550,13 @@ It's pretty curious compared to Skyrim. People, items, weapons —none of it tas
 &lt;h3 id="orgf79eb8f"&gt;Baldur's Gate III&lt;/h3&gt;
 &lt;div class="outline-text-3" id="text-orgf79eb8f"&gt;
 
-&lt;figure id="orge712810"&gt;
+&lt;figure id="orgdbb13ee"&gt;
 &lt;img src="../../attachment/images/taste/baldur.png" alt="baldur.png" width="600px"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
 
 
-&lt;figure id="org717085d"&gt;
+&lt;figure id="org4593557"&gt;
 &lt;img src="../../attachment/images/taste/astarion.png" alt="astarion.png" width="600px"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2558,7 +2574,7 @@ Alas. During normal gameplay there's too many highlights, special effects and ot
 &lt;h3 id="org517a387"&gt;Cuphead&lt;/h3&gt;
 &lt;div class="outline-text-3" id="text-org517a387"&gt;
 
-&lt;figure id="org3c6305b"&gt;
+&lt;figure id="org3c06420"&gt;
 &lt;img src="../../attachment/images/taste/cuphead.png" alt="cuphead.png" width="600px"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2576,7 +2592,7 @@ No reaction. Nice art, but no claim to realism and immersion. It doesn't mean th
 &lt;h3 id="org4e91d16"&gt;Legend of Zelda, Tears of the Kingdom&lt;/h3&gt;
 &lt;div class="outline-text-3" id="text-org4e91d16"&gt;
 
-&lt;figure id="org0b5866f"&gt;
+&lt;figure id="org98d6fce"&gt;
 &lt;img src="../../attachment/images/taste/zelda.png" alt="zelda.png" width="600px"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2594,7 +2610,7 @@ None. Cute, pretty, but the brain isn't fooled, everything is clearly artificial
 &lt;h3 id="orgb326567"&gt;Crysis 2&lt;/h3&gt;
 &lt;div class="outline-text-3" id="text-orgb326567"&gt;
 
-&lt;figure id="org7362955"&gt;
+&lt;figure id="org9e1e236"&gt;
 &lt;img src="../../attachment/images/taste/crysis.png" alt="crysis.png" width="600px"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2616,7 +2632,7 @@ This is the rare case where the static picture is tastier than the dynamic one. 
 &lt;h3 id="org9989eae"&gt;Last of Us 2&lt;/h3&gt;
 &lt;div class="outline-text-3" id="text-org9989eae"&gt;
 
-&lt;figure id="orgdc09482"&gt;
+&lt;figure id="orgb80047f"&gt;
 &lt;img src="../../attachment/images/taste/lastofus.jpeg" alt="lastofus.jpeg" width="600px"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2649,7 +2665,7 @@ In political theory there is a model, “political compass”, that places polit
 
 
 
-&lt;figure id="org65f5b82"&gt;
+&lt;figure id="org4b8f4e6"&gt;
 &lt;img src="../../attachment/images/polittop/base.png" alt="base.png" height="300px" align="center"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2658,7 +2674,7 @@ In political theory there is a model, “political compass”, that places polit
 And there is a contentious idea, “horseshoe theory”, which says that two extremes on the compass are essentially the same, or, at least, they are equally bad.&lt;br&gt;
 &lt;/p&gt;
 
-&lt;figure id="orgb776afa"&gt;
+&lt;figure id="org9dca92f"&gt;
 &lt;img src="../../attachment/images/polittop/horse.png" alt="horse.png" height="300px" align="center"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2681,7 +2697,7 @@ So, on this graph, for example, the point in the blue quadrant will have the coo
 &lt;/p&gt;
 
 
-&lt;figure id="orgd2edca1"&gt;
+&lt;figure id="orge4bba0e"&gt;
 &lt;img src="../../attachment/images/polittop/proof1.png" alt="proof1.png" height="300px" align="center"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2695,7 +2711,7 @@ Then the graph of cringiness as a function of degree can be drawn on a flat grap
 &lt;/p&gt;
 
 
-&lt;figure id="orga7f63f1"&gt;
+&lt;figure id="org42e7897"&gt;
 &lt;img src="../../attachment/images/polittop/proof2.png" alt="proof2.png" width="500px" align="center"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2708,7 +2724,7 @@ Notice that the point at 0 and the point at 360 have the same cringiness &amp;#x
 Let's take any two opposite points, X and Y:&lt;br&gt;
 &lt;/p&gt;
 
-&lt;figure id="org94a7924"&gt;
+&lt;figure id="org92fa0c0"&gt;
 &lt;img src="../../attachment/images/polittop/proof3.png" alt="proof3.png" height="300px" align="center"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2721,7 +2737,7 @@ What's cringiness of X minus cringiness of Y? If it's zero, then those are the t
 Let's rotate our pair of points around the axis:&lt;br&gt;
 &lt;/p&gt;
 
-&lt;figure id="org1f6666e"&gt;
+&lt;figure id="org945f4b9"&gt;
 &lt;img src="../../attachment/images/polittop/proof4.png" alt="proof4.png" height="300px" align="center"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2734,7 +2750,7 @@ The difference between cringinesses can likewise be graphed, and it also looks l
 But what happens halfway, when we rotate our pair of points by 180 degrees?&lt;br&gt;
 &lt;/p&gt;
 
-&lt;figure id="org60837f2"&gt;
+&lt;figure id="orgee57052"&gt;
 &lt;img src="../../attachment/images/polittop/proof5.png" alt="proof5.png" height="300px" align="center"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2747,7 +2763,7 @@ Relative to where we started, X took the place of Y, and Y took the place of X &
 In other words, if we graph the difference between cringinesses on the graph, it will start out positive, then be negative, then positive again (or vice versa).&lt;br&gt;
 &lt;/p&gt;
 
-&lt;figure id="orgb645d64"&gt;
+&lt;figure id="org714154c"&gt;
 &lt;img src="../../attachment/images/polittop/proof6.png" alt="proof6.png" width="500px" align="center"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
@@ -2801,7 +2817,7 @@ Cluster headaches are also known as suicide headaches. They regularly show up on
 &lt;/p&gt;
 
 
-&lt;figure id="orgb8ed667"&gt;
+&lt;figure id="org49364a5"&gt;
 &lt;img src="../../attachment/images/pain.png" alt="pain.png" width="400px"&gt;&lt;br&gt;
 
 &lt;/figure&gt;
