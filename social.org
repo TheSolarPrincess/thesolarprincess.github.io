@@ -6,6 +6,9 @@
 #+LINK:  https://thesolarprincess.github.io
 #+FOLLOW: Andros https://andros.dev/static/social.org
 #+FOLLOW: https://teoten.com/social.org
+#+GROUP: Emacs https://org-social-relay.andros.dev
+#+GROUP: Random https://org-social-relay.andros.dev
+#+GROUP: Org Mode https://org-social-relay.andros.dev
 #+CONTACT: mailto:tsolarprincess@gmail.com
 #+CONTACT: https://t.me/TSolarPrincess
 
@@ -281,3 +284,17 @@ Player: throws the controller the fuck away
 ---
 
 Why are Japanese games like this? Breath of the Wild, Persona, Pikmin, Pokémon, Ni no Kuni — they're all allergic to convenience. Every tiny thing triggers long dialogues which, even if you skip and button mash through them, still take about three seconds per line, and they keep repeating and repeating and REPEATING. If you click the wrong thing by accident — you’ve lost a whole minute of your life. When I tried playing Pikmin 4, I was constantly annoyed at the beginning that I couldn’t get five seconds of uninterrupted gameplay without a break for some very slow bullshit. The Japanese need an ethnic version of Half-Life 2 to show them that players have enough IQ to walk and listen at the same time
+
+**
+:PROPERTIES:
+:ID: 2025-12-03T20:57:19-0300
+:LANG: en
+:TAGS: psychiatry
+:CLIENT: org-social.el
+:MOOD: 
+:END:
+
+Testing the preview function, sharing one of my longest posts
+
+https://preview.org-social.org/?post=https%3A%2F%2Fthesolarprincess.site%2Fblog%2Fen%2Fidentitydisorders.html
+
