@@ -1,28 +1,24 @@
-/* Basic styles for centered, width-constrained content */
 body {
-    /* Center the text and set maximum width */
     margin: 0 auto;
     max-width: 60em;
     text-align: center;
 
-    /* Near-white background */
     background-color: #eeeee;
 
-    /* Additional styles for better readability */
     line-height: 1.6;
     padding: 1rem;
     font-family: system-ui, -apple-system, sans-serif;
   }
 
   #content {
-    text-align: left; /* Aligns text inside the div to the left */
-    margin-left: 0;   /* Removes any default left margin */
-    margin-right: auto; /* Ensures the div stays left-aligned */
+    text-align: left;
+    margin-left: 0;
+    margin-right: auto;
 }
 
   /* Link styles */
   a {
-    color: #2A6F6F; /* Orange */
+    color: #2A6F6F;
     text-decoration: none;
   }
 
@@ -31,13 +27,13 @@ body {
   }
 
   a:visited {
-    color: #084D4D; /* Slightly darker orange for visited links */
+    color: #084D4D;
   }
 
   blockquote {
     padding-left: 20px;
-    border-left: 4px solid #084D4D; /* Change the color as needed */
-    border-left: 4px solid #084D4D; /* Change the color as needed */
+    border-left: 4px solid #084D4D;
+    border-left: 4px solid #084D4D;
     margin: 20px 0;
     font-style: italic;
   }
@@ -227,10 +223,10 @@ display: none;
 
 }
 
-.twocol { columns: 2; column-gap: 1.2rem; }           /* 2 columns */
+.twocol { columns: 2; column-gap: 1.2rem; }
 .twocol .outline-3 { break-inside: avoid; margin: 0 0 .25rem 0; }
-.twocol h3 { margin: 0; }                              /* no gap above/below H3 */
-.twocol p { margin: 0.3; line-height: 1.1; }             /* no paragraph gaps, tight lines */
-.twocol ul, .twocol ol { margin: 0 0 .25rem 1.2em; }   /* optional: compact lists */
+.twocol h3 { margin: 0; }
+.twocol p { margin: 0.3; line-height: 1.1; }
+.twocol ul, .twocol ol { margin: 0 0 .25rem 1.2em; }
 
 .hidden { display: none; }
