@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><atom:link href="https://thesolarprincess.site/en" rel="self" type="application/rss+xml"/><title>Solar Flares</title><link>https://thesolarprincess.site/en</link><description>Collected writings of the Solar Princess</description><generator>clj-rss</generator><item><title>Psychometaphysics</title><description>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><atom:link href="https://thesolarprincess.site/en" rel="self" type="application/rss+xml"/><title>Solar Flares</title><link>https://thesolarprincess.site/en</link><description>Collected writings of the Solar Princess</description><generator>clj-rss</generator><item><title>On bad astronomy and words</title><description>
+&lt;div id="content" class="content"&gt;
+&lt;p&gt;
+John is an astronomer. A really awesome astronomer — he knows everything about stars, planets, zodiacs, and whatever else astronomers know (I’m not an astronomologist). If you need to calculate the distance to a star, figure out how to build a plane that works on Mars, or process telescope data to find habitable planets — he’s the guy you’d mean when you say “I know a guy”. Oh, and John lives in 2005, before Pluto was reclassified as not a planet.&lt;br&gt;
+He’s writing a book about the planets in the Solar System, comparing their statistics. In the chapter on planet sizes, he writes: “The smallest planet in the Solar System is about 2400 kilometers in diameter,” meaning Pluto.&lt;br&gt;
+Another astronomer, Jack, finds this book in 2010. He reads the sentence: “The smallest planet in the Solar System is about 2400 kilometers in diameter.” Jack knows Pluto isn’t a planet, so he believes the smallest planet in the Solar System is Mercury, with a diameter of about 4900 kilometers. He reads it and thinks: “The smallest planet in the Solar System is 4900 kilometers across. But John writes that the smallest planet in the Solar System is 2400 kilometers in diameter. That’s a huge discrepancy! He tried to measure a planet and got it wrong by almost a factor of two! Clearly John is a terrible astronomer if he can’t even get the size of a planet right.”&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+Yet John is actually an excellent astronomer. He only got one rather unimportant classification wrong. The reasoning “The smallest planet is Mercury, and John thinks the smallest planet is 2400 kilometers in diameter, therefore John thinks Mercury is 2400 kilometers in diameter” is not as logically valid an inference as it sounds.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+…Okay, why is this seemingly trivial bit written here? As it turns out, for many people this reasoning isn’t nearly as obvious as it is to me. After hearing conclusions of this kind for the hundrendth time, on the hundred and first I’d rather just write a standard response on my blog and link to it from now on.&lt;br&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+</description><link>https://thesolarprincess.site/blog/en/badwords.html</link><author>inbox@thesolarprincess.site</author><pubDate>Thu, 04 Dec 2025 10:15:30 +0000</pubDate></item><item><title>Psychometaphysics</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;style&gt;.verse { background-color: #f5f5f5; padding: 1em; border-left: 3px solid #ccc; }&lt;/style&gt;
 
@@ -967,7 +983,7 @@ This is a much easier read than Seeing Like a State, and I recommend reading it 
 
 &lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/psychometaphysics.html</link><author>inbox@thesolarprincess.site</author><pubDate>Sun, 30 Nov 2025 10:15:30 +0000</pubDate></item><item><title>Papers please and the Tomb of the Unknown Soldier</title><description>
+</description><link>https://thesolarprincess.site/blog/en/psychometaphysics.html</link><author>inbox@thesolarprincess.site</author><pubDate>Sun, 30 Nov 2025 10:15:30 +0000</pubDate></item><item><title>Papers please and the Tomb of the Unknown Soldier</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 I have been provoked into spontaneously analyzing &lt;i&gt;Papers, Please&lt;/i&gt;. I think the idea is sufficiently self-contained and novel to be a post.&lt;br&gt;
@@ -1144,7 +1160,7 @@ The Solar Princess: &lt;b&gt;Papers, Please&lt;/b&gt; is the civilian version&lt
 The Solar Princess: Tomb of the Unknown Soldier — does that count as romanticizing war?&lt;br&gt;
 &lt;/p&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/papersplease.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Doomsday argument is hopeful</title><description>
+</description><link>https://thesolarprincess.site/blog/en/papersplease.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Doomsday argument is hopeful</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 There's a well-known philosophical concept known as the Doomsday Argument. Here's Randall Munroe's simple take on it:&lt;br&gt;
@@ -1201,7 +1217,7 @@ Perhaps we should have called it The Singularity Argument?&lt;br&gt;
 I am sometimes optimistic.&lt;br&gt;
 &lt;/p&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/doomsday.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Identity disorders 2 – Monster Girl Encyclopedia</title><description>
+</description><link>https://thesolarprincess.site/blog/en/doomsday.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Identity disorders 2 – Monster Girl Encyclopedia</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 &lt;i&gt;This post in a follow-up to &lt;a href="blog/en/identitydisorders.html"&gt;my previous investigation&lt;/a&gt; into identity disorders. You have to read it first.&lt;/i&gt;&lt;br&gt;
@@ -1691,7 +1707,7 @@ I can't check. Allopregnanolone isn't over-the-counter and is only administered 
 In any case, there's a lot more to think about here. If any reader wants to start taking estradiol for the first time, &lt;a href="mailto:inbox@thesolarprincess.site"&gt;email me&lt;/a&gt;, we might have experiments to run.&lt;br&gt;
 &lt;/p&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/identitydisorders2.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Terraforming mars is a single-player game</title><description>
+</description><link>https://thesolarprincess.site/blog/en/identitydisorders2.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Terraforming mars is a single-player game</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 I had been roped into playing Terraforming Mars. It was one of the worst tabletop games I ever played, and I played Monopoly!&lt;br&gt;
@@ -1709,7 +1725,7 @@ The players barely interact. They tend to do their own things, trying to get the
 In Terraforming Mars all players are basically playing a single-player game and compete in who does it the best. As a single-player game it's passable; maybe you could make it better by removing all other players.&lt;br&gt;
 &lt;/p&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/terraformingmars.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Towards less annoying RPGs</title><description>
+</description><link>https://thesolarprincess.site/blog/en/terraformingmars.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Towards less annoying RPGs</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 My relationship with the RPG genre is an unending love/hate. I love its core elements. I enjoy roleplaying, exploring, doing side quests, leveling up, immersing myself, freedom of choice, replayability, rich stories and settings, flexible mechanics, dungeon crawling&amp;#x2026; basically, everything normal people love about the genre.&lt;br&gt;
@@ -2008,7 +2024,7 @@ If &lt;i&gt;Skyrim&lt;/i&gt; required you to sit down and take a poop soon after
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/annoyingrpg.html</link><author>inbox@thesolarprincess.site</author></item><item><title>You misunderstand wireheading</title><description>
+</description><link>https://thesolarprincess.site/blog/en/annoyingrpg.html</link><author>inbox@thesolarprincess.site</author></item><item><title>You misunderstand wireheading</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 When muggles talk about AI, transhumanism, brain implants, and similar topics, you would often hear about wireheading.&lt;br&gt;
@@ -2050,7 +2066,7 @@ No, maximizing your reward center is not a good idea by any means. If you do tha
 And you are totally allowed to care about things outside of your head. You don't need to invent any philosophical justifications for why you care specifically that your loved one survives, and not that you would think they survived. It's the other way around, if someone cares only about his own mental state, you should investigate — why, what happened to his brain?&lt;br&gt;
 &lt;/p&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/wirehead.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Identity disorders – not just transgender</title><description>
+</description><link>https://thesolarprincess.site/blog/en/wirehead.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Identity disorders – not just transgender</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 &lt;i&gt;Disclaimer 1: All conclusions are based on indirect evidence, intensive questioning of random individuals, and other hints and whispers on a corkboard with strings. I've done everything I could to account for all possible failure modes of drawing conclusions from anecdotal evidence, but of course, all of this could turn out to be simply untrue if I made a mistake somewhere along the way&lt;/i&gt;&lt;br&gt;
@@ -2439,7 +2455,7 @@ That's my current hill.&lt;br&gt;
 &lt;h2 id="org732792d"&gt;&lt;a href="identitydisorders2.html"&gt;Next part of the investigation&lt;/a&gt;.&lt;/h2&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/identitydisorders.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Asymmetric riddleography</title><description>
+</description><link>https://thesolarprincess.site/blog/en/identitydisorders.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Asymmetric riddleography</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 As a recovering expert in communication protocols, I occasionally try to write what I know.&lt;br&gt;
@@ -2469,23 +2485,7 @@ But there is a creative solution for a resourceful protagonist! Just ask him for
 It would be cool to add ZKP to the mix, so that you can repeat the trick any number of times — otherwise it only works once; if you learn the answer, every further impostor would know it as well. But you can make your players to carry code books with riddles for each other, that would be amazing.&lt;br&gt;
 &lt;/p&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/cryptoriddle.html</link><author>inbox@thesolarprincess.site</author></item><item><title>On bad astronomy and words</title><description>
-&lt;div id="content" class="content"&gt;
-&lt;p&gt;
-John is an astronomer. A really awesome astronomer — he knows everything about stars, planets, zodiacs, and whatever else astronomers know (I’m not an astronomologist). If you need to calculate the distance to a star, figure out how to build a plane that works on Mars, or process telescope data to find habitable planets — he’s the guy you’d mean when you say “I know a guy”. Oh, and John lives in 2005, before Pluto was reclassified as not a planet.&lt;br&gt;
-He’s writing a book about the planets in the Solar System, comparing their statistics. In the chapter on planet sizes, he writes: “The smallest planet in the Solar System is about 2400 kilometers in diameter,” meaning Pluto.&lt;br&gt;
-Another astronomer, Jack, finds this book in 2010. He reads the sentence: “The smallest planet in the Solar System is about 2400 kilometers in diameter.” Jack knows Pluto isn’t a planet, so he believes the smallest planet in the Solar System is Mercury, with a diameter of about 4900 kilometers. He reads it and thinks: “The smallest planet in the Solar System is 4900 kilometers across. But John writes that the smallest planet in the Solar System is 2400 kilometers in diameter. That’s a huge discrepancy! He tried to measure a planet and got it wrong by almost a factor of two! Clearly John is a terrible astronomer if he can’t even get the size of a planet right.”&lt;br&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-Yet John is actually an excellent astronomer. He only got one rather unimportant classification wrong. The reasoning “The smallest planet is Mercury, and John thinks the smallest planet is 2400 kilometers in diameter, therefore John thinks Mercury is 2400 kilometers in diameter” is not as logically valid an inference as it sounds.&lt;br&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-…Okay, why is this seemingly trivial bit written here? As it turns out, for many people this reasoning isn’t nearly as obvious as it is to me. After hearing conclusions of this kind for the hundrendth time, on the hundred and first I’d rather just write a standard response on my blog and link to it from now on.&lt;br&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/badwords.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Taste is an underappreciated component of video game graphics</title><description>
+</description><link>https://thesolarprincess.site/blog/en/cryptoriddle.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Taste is an underappreciated component of video game graphics</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 Your tongue knows what everything tastes like.&lt;br&gt;
@@ -2657,7 +2657,7 @@ This is the game that made me believe it the most. I specifically seeked out som
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/tastinggraphics.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Analyzing the political compass with algebraic topology</title><description>
+</description><link>https://thesolarprincess.site/blog/en/tastinggraphics.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Analyzing the political compass with algebraic topology</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 In political theory there is a model, “political compass”, that places political views along two axes: left-right, and authoritarian-libertarian.&lt;br&gt;
@@ -2788,7 +2788,7 @@ Notice that for our “cringiness” we can take any sufficiently continuous var
 Ah, topology!&lt;br&gt;
 &lt;/p&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/politicstopology.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Hell inside my own head and emotional torture</title><description>
+</description><link>https://thesolarprincess.site/blog/en/politicstopology.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Hell inside my own head and emotional torture</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 In &lt;i&gt;Unsong&lt;/i&gt;, the forces of Hell made a political move of broadcasting to Earth what exactly is going in in Hell. &lt;a href="https://unsongbook.com/interlude-%D7%99-the-broadcast/"&gt;The chapter where this happens&lt;/a&gt; is covered in military-grade trigger warnings and assurance that you don't need to read it to understand the story. Those trigger warnings weren't enough, the author had to add another layer of “no, I am serious”, and now I am adding yet another layer. As you can probably guess, it's not pretty in Hell.&lt;br&gt;
@@ -2846,7 +2846,7 @@ My mother often told me to become a psychiatrist — saying that maybe I can adv
 But maybe interestingness should have been a rounding error.&lt;br&gt;
 &lt;/p&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/hell.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Narrative design in Disco Elysium</title><description>
+</description><link>https://thesolarprincess.site/blog/en/hell.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Narrative design in Disco Elysium</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 Narrative design is not exactly my cup of tea, but I have some thoughts.&lt;br&gt;
@@ -2919,7 +2919,7 @@ Knowing all this, I am curious — what would be some equally organic narrative 
 I will ponder this puzzle some more.&lt;br&gt;
 &lt;/p&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/disconarrative.html</link><author>inbox@thesolarprincess.site</author></item><item><title>The Amazing Digital Circus and anti-nihilism</title><description>
+</description><link>https://thesolarprincess.site/blog/en/disconarrative.html</link><author>inbox@thesolarprincess.site</author></item><item><title>The Amazing Digital Circus and anti-nihilism</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 &lt;i&gt;The Amazing Digital Circus&lt;/i&gt; is the best existential horror since SpongeBob SquarePants: Season 1, Episode 17 “Rock Bottom”. In particular, I understand the feeling of being “abstracted” very well — I've been on that brink of falling into oblivion, and I can see that the author experienced exactly that, and he conveyed it perfectly.&lt;br&gt;
@@ -2961,7 +2961,7 @@ And yes, people were happy about the fanservice of Rick's origin story and are e
 I hope that TADC won't make this mistake and won't introduce a plot point that ruins the stakes. The fans are playing with theories that maybe one of the main characters is an NPC, or that the real world doesn't even exist and Pomni appeared out of nothing with all her memories last Thursday. Giving us reasons to look for deception? Yes, that's a cornerstone of the genre. Confirming it, even indirectly? Would ruin everything. The best here is to not violate the basic premises of the setting, never reveal anything about the true nature of the Circus, never show the real world, and never give the characters any global goals. Instead, they should just keep pumping interpersonal drama within the established decor. The potential of the idea — covering various plots and themes against the backdrop of existential horror — won't be lost.&lt;br&gt;
 &lt;/p&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/tadc.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Gale from Baldur’s Gate III should eat a magic item every long rest</title><description>
+</description><link>https://thesolarprincess.site/blog/en/tadc.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Gale from Baldur’s Gate III should eat a magic item every long rest</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 I like neither the Gale's arcane hunger system nor the long rest system.&lt;br&gt;
@@ -3065,7 +3065,7 @@ What do you think?&lt;br&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/hungrygale.html</link><author>inbox@thesolarprincess.site</author></item><item><title>The mechanics of Undertale dialogues</title><description>
+</description><link>https://thesolarprincess.site/blog/en/hungrygale.html</link><author>inbox@thesolarprincess.site</author></item><item><title>The mechanics of Undertale dialogues</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 Let's keep talking about narrative design and dialogue mechanics. This time we'll take a look at dialogue mechanics of Undertale.&lt;br&gt;
@@ -3123,7 +3123,7 @@ Interactivity is the main strength of video games as an artistic medium. But int
 His games have a lot of this kind of minutia that are invisible if you just read reviews, but that still transform the experience, maybe later I'll highlight some more of them. And those are the reason why I think he is a genius.&lt;br&gt;
 &lt;/p&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/undertaledialogue.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Fallout: Equestria addiction arc</title><description>
+</description><link>https://thesolarprincess.site/blog/en/undertaledialogue.html</link><author>inbox@thesolarprincess.site</author></item><item><title>Fallout: Equestria addiction arc</title><description>
 &lt;div id="content" class="content"&gt;
 &lt;p&gt;
 &lt;a href="https://en.wikipedia.org/wiki/Fallout%3A_Equestria"&gt;Fallout: Equestria&lt;/a&gt; is extremely &lt;i&gt;viscreal&lt;/i&gt;. I don't know how the author does it, but it makes you feel &lt;i&gt;everything&lt;/i&gt;. Every time the protagonist is hit, you flinch. Every time the protagonist is scared, you jump in your seat. I don't know how it works. It's like some kind of subtle word magic is at action. As far as I can tell, it doesn't work on everyone — some are immune to the magic — and thus not everybody appreciates this particular aspect of the book's genius. But for me, it definitely worked.&lt;br&gt;
@@ -3161,4 +3161,4 @@ I don't know how well that reflects real-life addiction — I've never been addi
 Some time later Littlepip finds her stash of the drug and ponders whether to throw it away to not risk getting re-addicted, or to keep it in case she ever needs a boost in an emergency. That really felt like a dilemma. Lots of writers set up contrived moral dilemmas with one answer clearly marked with author's endorsement — but this one felt genuine.&lt;br&gt;
 &lt;/p&gt;
 &lt;/div&gt;
-</description><link>https://thesolarprincess.site/blog/en-en/foeaddiction.html</link><author>inbox@thesolarprincess.site</author></item></channel></rss>
+</description><link>https://thesolarprincess.site/blog/en/foeaddiction.html</link><author>inbox@thesolarprincess.site</author></item></channel></rss>
