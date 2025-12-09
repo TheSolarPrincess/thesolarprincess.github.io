@@ -375,3 +375,13 @@ But still, for a significant part of the parade, the ones leading the vanguard w
 :END:
 
 So I just posted the same thing twice, one in English and one in Russian. If someone needs to see if their language filters work or something, take heed.
+
+**
+:PROPERTIES:
+:ID: 2025-12-09T01:07:10-0300
+:LANG: en
+:CLIENT: org-social.el
+:MOOD: 
+:END:
+
+So, [[https://preview.org-social.org/?post=https%3A%2F%2Fthesolarprincess.site%2Fsocial.org%232025-12-03T16%3A01%3A46-0300][this poll]] has finished, where do I see the results? Are they going to appear in anyone‘s timeline? Where do I see it?
