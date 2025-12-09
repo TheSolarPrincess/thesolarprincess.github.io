@@ -396,4 +396,6 @@ So, [[https://preview.org-social.org/?post=https%3A%2F%2Fthesolarprincess.site%2
 :MOOD: 
 :END:
 
-I don‘t see it in [[https://i.imgur.com/Ac0W08m.png][org-social client]].
+I don‘t see it in the client.
+
+[[https://i.imgur.com/Ac0W08m.png][org-social client]]
