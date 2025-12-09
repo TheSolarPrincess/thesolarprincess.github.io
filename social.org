@@ -349,7 +349,7 @@ But now, it‘s not just my personal bee in a bonnet, but a fully-fledged niche 
 :CLIENT: org-social.el
 :END:
 
-Интересный эксперимент в социальной психологии бесхвостых обезьян со [[./attachment/images/social/зкшву.jpg][прайда в Мар дель Плата]].
+Интересный эксперимент в социальной психологии бесхвостых обезьян со [[attachment/images/social/зкшву.jpg][прайда в Мар дель Плата]].
 Я иду быстрее, чем парад, мне надо постоянно корректировать скорость сознательно, иначе я ухожу вперед. Пару раз я замечала, что ушла вперед своей компании, и перебегала обратно к ним. Потом решила черт с ним, буду идти как идется. Китайский метод "ждать пока по реке проплывет труп твоего врага" сработал — компашка уже пришла ко мне, в самый перед. 
 Идущие впереди парада с транспарантом не оглядываются и, видимо, корректируют свою скорость согласно жопочуйству по людям сзади. Так как наша компашка вплотную к ним притиралась, они шли быстрее, чем ожидали. В итоге мы все вместе ушли вперед второй колонны парада, они отставали относительно нас. Когда мы уже второй раз ушли достаточно вперед, что приходилось останавливаться и ждать, я поняла, почему это происходит, сдала назад, и остальной парад больше не отставал.
 Но тем не менее, значительную часть парада в авангарде шли русские и беларусы.
@@ -362,7 +362,7 @@ But now, it‘s not just my personal bee in a bonnet, but a fully-fledged niche 
 :CLIENT: org-social.el
 :END:
 
-Being on a [[./attachment/images/social/зкшву.jpg][LGBT Pride March in Mar del Plata]] these weekends, I had an interesting observation into the social psychology of humans.
+Being on a [[attachment/images/social/зкшву.jpg][LGBT Pride March in Mar del Plata]] these weekends, I had an interesting observation into the social psychology of humans.
 I‘m walking faster than the parade, so I need to deliberately correct my speed not to leave my Russian-speaking friends behind. A couple of times I noticed that I had pulled ahead of my group and ran back to them. Then I thought, fuck it, I’ll just walk at my own pace. The Chinese method of “sitting by the riverbank long enough to see the corpse of your enemy float by” worked — my group eventually caught up to me, right at the very front of the parade.
 The people carrying the banner at the front of the parade don’t look backward and probably sense with their asses how close the rest of the crowd is to them, adjusting their speed accordingly. Since our little gang was glued right to their backs, they were walking faster than they expected. As a result, all of us together pulled far ahead of the second column of the parade; that second column was lagging behind us. By the second time we had pulled ahead so far that we had to stop and wait, I figured out what was happening, slowed down back a bit, and after that the rest of the parade no longer fell behind.
 But still, for a significant part of the parade, the ones leading the vanguard were Russians and Belarusians. You will probably see me on the news, recorded from a drone.
