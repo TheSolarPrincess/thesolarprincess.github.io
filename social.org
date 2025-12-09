@@ -385,3 +385,15 @@ So I just posted the same thing twice, one in English and one in Russian. If som
 :END:
 
 So, [[https://preview.org-social.org/?post=https%3A%2F%2Fthesolarprincess.site%2Fsocial.org%232025-12-03T16%3A01%3A46-0300][this poll]] has finished, where do I see the results? Are they going to appear in anyone‘s timeline? Where do I see it?
+
+**
+:PROPERTIES:
+:ID: 2025-12-09T14:35:05-0300
+:LANG: 
+:TAGS: 
+:CLIENT: org-social.el
+:REPLY_TO: https://host.org-social.org/andros/social.org#2025-12-09T10:56:53+0100
+:MOOD: 
+:END:
+
+I don‘t see it in [[https://i.imgur.com/Ac0W08m.png][org-social client]].
