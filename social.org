@@ -15,7 +15,7 @@
 #+CONTACT: https://t.me/TSolarPrincess
 
 * Posts
-**
+** 
 :PROPERTIES:
 :ID:  2025-10-16T23:00:00-0300
 :LANG: en
@@ -25,7 +25,7 @@ Hello, universe!
 I am The Solar Princess. I very much like the idea of Org Social, and I‘ll repost my blog here. I mostly write about psychiatry, game design, politics.
 Posts are available at [[http://thesolarprincess.site][my website]]; I will start reposting them here. Please react or reply if you are reading this, as I want to know you.
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-17T03:01:57-0300
 :CLIENT: org-social.el
@@ -33,7 +33,7 @@ Posts are available at [[http://thesolarprincess.site][my website]]; I will star
 :MOOD: 🌅
 :END:
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-17T03:11:36-0300
 :LANG: en
@@ -54,7 +54,7 @@ But there is a creative solution for a resourceful protagonist! Just ask him for
 
 It would be cool to add ZKP to the mix, so that you can repeat the trick any number of times — otherwise it only works once; if you learn the answer, every further impostor would know it as well. But you can make your players to carry code books with riddles for each other, that would be amazing.
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-17T19:32:13-0300
 :LANG: en
@@ -63,7 +63,7 @@ It would be cool to add ZKP to the mix, so that you can repeat the trick any num
 
 So, err, I‘m using org-social.el, and it‘s not clear at all if a post in my timeline is its own post or a reply (to me or otherwise)? I have to enter the profile and read the raw file and look at the reply link. Is it supposed to be like that?
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-17T23:51:37-0300
 :LANG: en
@@ -74,7 +74,7 @@ Re: [[https://files.catbox.moe/gp6pk8.webp][screenshot]] [[https://flyinglionwit
 
 Inability to distinguish between A->B and B->A seems to me to be the single most common logical fallacy you can see in the wild. Even when people write out their arguments step-by-step, they can‘t avoid it; not to mention informal speech. Even those who think of themselves as intellectuals have trouble understanding that every apple is a fruit but not every fruit is an apple.
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-18T21:22:50-0300
 :LANG: en
@@ -87,7 +87,7 @@ I‘m on a laptop. Never had a fancy keyboard, even when on desktop, because my 
 
 Yes, I strongly spiritually identify with the fire-benders.
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-24T12:33:24-0300
 :CLIENT: org-social.el
@@ -96,7 +96,7 @@ Yes, I strongly spiritually identify with the fire-benders.
 
 Decentralization is always better!
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-30T21:48:49-0300
 :CLIENT: org-social.el
@@ -105,7 +105,7 @@ Decentralization is always better!
 
 Elfeed is so much better than anything else I‘ve tried that it‘s not even funny.
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-31T19:29:43-0300
 :CLIENT: org-social.el
@@ -115,7 +115,7 @@ Elfeed is so much better than anything else I‘ve tried that it‘s not even fu
 Yeah, Magit is great to learn Git, and I think more things should be structured that way.
 I remember before I kmew about Magit, I was teaching Git to some high schoolers, and I was thinking that a legible UI for Git that can do anything without obscuring what‘s going on under the hood would have been awesome. My wish retroactively came true!
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-10-31T19:31:52-0300
 :CLIENT: org-social.el
@@ -125,7 +125,7 @@ I‘ve never celebrated Halloween because it‘s not really a thing in my countr
 Then I moved to Argentina and I expected to celebrate, but it seems like no one is doing Halloween here either.
 Sad
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-11-11T03:50:10-0300
 :LANG: en
@@ -134,7 +134,7 @@ Sad
 
 There is a language field in org-social.el. Do people filter by language? If I start posting in Russian, would I just litter the feeds of people who don‘t speak Russian?
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-02T21:36:59-0300
 :LANG: en
@@ -147,7 +147,7 @@ I have finally coded an RSS feed for my blog, automatically generated on org-htm
 
 (if you speak both languages, pick Russian)
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-02T21:46:32-0300
 :LANG: en
@@ -157,7 +157,7 @@ I have finally coded an RSS feed for my blog, automatically generated on org-htm
 
 Using Emacs made me understand why Tinkers in Worm don't give their tech to teammates. Some things really do only work because of your constant tinkering, and would spontaneously combust if you give them to anyone else.
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-03T14:07:12-0300
 :CLIENT: org-social.el
@@ -167,7 +167,7 @@ Using Emacs made me understand why Tinkers in Worm don't give their tech to team
 
 [[org-social:https://host.org-social.org/andros/social.org][andros]], org-publish. RSS using a Babashka utility. I plan to upload the full source code, once I clean it up and remove the hardcoded personal data and other stuff; right now generating different language versions is quite spaghetti. I‘ll post the github here when I‘m done.
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-03T15:49:37-0300
 :LANG:
@@ -179,7 +179,7 @@ Using Emacs made me understand why Tinkers in Worm don't give their tech to team
 
 [[org-social:https://host.org-social.org/andros/social.org][andros]], what is the least insane way to have it displayed at the top of my agenda, before all the actual agenda stuff? I‘m using org-super-agenda
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-03T16:01:46-0300
 :LANG: en
@@ -192,7 +192,7 @@ You're Spider-Man hanging upside-down, and you want to give someone a thumbs-up 
 - [ ] Up relative to you, down relative to them
 - [ ] Down relative to you, up relative to them
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-03T18:06:44-0300
 :CLIENT: org-social.el
@@ -201,7 +201,7 @@ You're Spider-Man hanging upside-down, and you want to give someone a thumbs-up 
 :END:
 
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-03T19:34:26-0300
 :LANG: 
@@ -212,7 +212,7 @@ You're Spider-Man hanging upside-down, and you want to give someone a thumbs-up 
 :END:
 
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-03T19:35:24-0300
 :CLIENT: org-social.el
@@ -221,7 +221,7 @@ You're Spider-Man hanging upside-down, and you want to give someone a thumbs-up 
 :END:
 
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-03T19:45:34-0300
 :LANG: en
@@ -289,7 +289,7 @@ Player: throws the controller the fuck away
 
 Why are Japanese games like this? Breath of the Wild, Persona, Pikmin, Pokémon, Ni no Kuni — they're all allergic to convenience. Every tiny thing triggers long dialogues which, even if you skip and button mash through them, still take about three seconds per line, and they keep repeating and repeating and REPEATING. If you click the wrong thing by accident — you’ve lost a whole minute of your life. When I tried playing Pikmin 4, I was constantly annoyed at the beginning that I couldn’t get five seconds of uninterrupted gameplay without a break for some very slow bullshit. The Japanese need an ethnic version of Half-Life 2 to show them that players have enough IQ to walk and listen at the same time
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-03T22:12:09-0300
 :LANG: 
@@ -303,7 +303,7 @@ So. [[https://thesolarprincess.site/social.org#2025-12-03T19:45:34-0300][That]] 
 
 [[org-social:https://host.org-social.org/andros/social.org][andros]], what do you think?
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-04T00:02:50-0300
 :LANG: 
@@ -318,7 +318,7 @@ So, „random“ means anything goes? Err... let me break the ice with a pun.
 They call me Cluster Bomb 'cause my Cluster B personality disorders pose risks to civilians
 
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-04T20:38:42-0300
 :LANG: 
@@ -333,7 +333,7 @@ I‘ve always said that asking for an exact definition is the surest way to dera
 
 But now, it‘s not just my personal bee in a bonnet, but a fully-fledged niche position.
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-06T22:48:01-0300
 :CLIENT: org-social.el
@@ -342,7 +342,7 @@ But now, it‘s not just my personal bee in a bonnet, but a fully-fledged niche 
 :END:
 
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-09T00:51:12-0300
 :LANG: ru
@@ -355,7 +355,7 @@ But now, it‘s not just my personal bee in a bonnet, but a fully-fledged niche 
 Но тем не менее, значительную часть парада в авангарде шли русские и беларусы.
 И нас снимали, в том числе с дрона.
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-09T00:52:37-0300
 :LANG: en
@@ -367,7 +367,7 @@ I‘m walking faster than the parade, so I need to deliberately correct my speed
 The people carrying the banner at the front of the parade don’t look backward and probably sense with their asses how close the rest of the crowd is to them, adjusting their speed accordingly. Since our little gang was glued right to their backs, they were walking faster than they expected. As a result, all of us together pulled far ahead of the second column of the parade; that second column was lagging behind us. By the second time we had pulled ahead so far that we had to stop and wait, I figured out what was happening, slowed down back a bit, and after that the rest of the parade no longer fell behind.
 But still, for a significant part of the parade, the ones leading the vanguard were Russians and Belarusians. You will probably see me on the news, recorded from a drone.
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-09T01:04:04-0300
 :LANG: en
@@ -376,7 +376,7 @@ But still, for a significant part of the parade, the ones leading the vanguard w
 
 So I just posted the same thing twice, one in English and one in Russian. If someone needs to see if their language filters work or something, take heed.
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-09T01:07:10-0300
 :LANG: en
@@ -386,7 +386,7 @@ So I just posted the same thing twice, one in English and one in Russian. If som
 
 So, [[https://preview.org-social.org/?post=https%3A%2F%2Fthesolarprincess.site%2Fsocial.org%232025-12-03T16%3A01%3A46-0300][this poll]] has finished, where do I see the results? Are they going to appear in anyone‘s timeline? Where do I see it?
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-09T14:35:05-0300
 :LANG: 
@@ -400,7 +400,7 @@ I don‘t see it in the client.
 
 [[https://i.imgur.com/Ac0W08m.png][org-social client]]
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-10T17:37:31-0300
 :CLIENT: org-social.el
@@ -409,7 +409,7 @@ I don‘t see it in the client.
 :END:
 
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-10T17:38:06-0300
 :LANG: en
@@ -419,7 +419,7 @@ I don‘t see it in the client.
 
 I have it on my list, somewhere down the teens. The concept sounds interesting and useful.
 
-**
+** 
 :PROPERTIES:
 :ID: 2025-12-10T23:13:28-0300
 :LANG: en
@@ -429,13 +429,14 @@ I have it on my list, somewhere down the teens. The concept sounds interesting a
 
 – Do you want to buy some liqueur?
 – What liqueur?
-- [[https://imgur.com/mEgfTza][LIQUEUR BOLS]] haha gotem
+- LIQUEUR BOLS haha gotem
 
-**
+  [[https://i.imgur.com/mEgfTza.png][pic]]
+
+** 
 :PROPERTIES:
 :ID: 2025-12-11T12:32:27-0300
 :CLIENT: org-social.el
 :REPLY_TO: https://host.org-social.org/org-social/social.org#2025-12-11T10:26:14+0100
 :MOOD: 🏆
 :END:
-
