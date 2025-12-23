@@ -170,8 +170,7 @@ Using Emacs made me understand why Tinkers in Worm don't give their tech to team
 ** 
 :PROPERTIES:
 :ID: 2025-12-03T15:49:37-0300
-:LANG:
-:TAGS:
+:LANG: en
 :CLIENT: org-social.el
 :REPLY_TO: https://host.org-social.org/andros/social.org#2025-12-03T12:47:48+0100
 :MOOD:
@@ -204,11 +203,10 @@ You're Spider-Man hanging upside-down, and you want to give someone a thumbs-up 
 ** 
 :PROPERTIES:
 :ID: 2025-12-03T19:34:26-0300
-:LANG: 
+:LANG: en
 :POLL_OPTION: Yes
 :CLIENT: org-social.el
 :REPLY_TO: https://host.org-social.org/andros/social.org#2025-11-26T09:03:48+0100
-:MOOD: 
 :END:
 
 
@@ -227,7 +225,6 @@ You're Spider-Man hanging upside-down, and you want to give someone a thumbs-up 
 :LANG: en
 :TAGS: gaming
 :CLIENT: org-social.el
-:MOOD:
 :TAGS: gaming
 :END:
 
@@ -292,10 +289,9 @@ Why are Japanese games like this? Breath of the Wild, Persona, Pikmin, Pokémon,
 ** 
 :PROPERTIES:
 :ID: 2025-12-03T22:12:09-0300
-:LANG: 
+:LANG: en
 :GROUP: Org Social https://org-social-relay.andros.dev
 :CLIENT: org-social.el
-:MOOD: 
 :END:
 
 So. [[https://thesolarprincess.site/social.org#2025-12-03T19:45:34-0300][That]] was a relatively long post, and it successfully ate my entire timeline screen space. I could theoretically wipe it with a longcat, 2000s style. While I don‘t think there should be post size limits, maybe there should be an optional feature in the client, to clip posts longer than X symbols behind a „read more“ button. That button should just unclip the post and display it in the timeline normally.
@@ -306,8 +302,7 @@ So. [[https://thesolarprincess.site/social.org#2025-12-03T19:45:34-0300][That]] 
 ** 
 :PROPERTIES:
 :ID: 2025-12-04T00:02:50-0300
-:LANG: 
-:TAGS: 
+:LANG: en
 :CLIENT: org-social.el
 :GROUP: Random https://org-social-relay.andros.dev
 :MOOD: 
@@ -321,8 +316,7 @@ They call me Cluster Bomb 'cause my Cluster B personality disorders pose risks t
 ** 
 :PROPERTIES:
 :ID: 2025-12-04T20:38:42-0300
-:LANG: 
-:TAGS: 
+:LANG: en
 :CLIENT: org-social.el
 :MOOD: 
 :END:
@@ -389,8 +383,7 @@ So, [[https://preview.org-social.org/?post=https%3A%2F%2Fthesolarprincess.site%2
 ** 
 :PROPERTIES:
 :ID: 2025-12-09T14:35:05-0300
-:LANG: 
-:TAGS: 
+:LANG: en
 :CLIENT: org-social.el
 :REPLY_TO: https://host.org-social.org/andros/social.org#2025-12-09T10:56:53+0100
 :MOOD: 
