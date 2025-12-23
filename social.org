@@ -433,3 +433,15 @@ I have it on my list, somewhere down the teens. The concept sounds interesting a
 :REPLY_TO: https://host.org-social.org/org-social/social.org#2025-12-11T10:26:14+0100
 :MOOD: 🏆
 :END:
+
+** 
+:PROPERTIES:
+:ID: 2025-12-23T20:55:50-0300
+:LANG: en
+:TAGS: blogging
+:CLIENT: org-social.el
+:END:
+
+I have put the [[https://github.com/TheSolarPrincess/The-Solar-Empire-source][source code]] for my [[file:~/Workspace/muse/README.org::This is the source code of my blog \[\[https://thesolarprincess.site/\]\]][website]] on Github.
+
+[[org-social:https://host.org-social.org/andros/social.org][andros]], you wanted to see it, so I‘m pinging you
