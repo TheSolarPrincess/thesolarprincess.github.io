@@ -445,3 +445,21 @@ I have it on my list, somewhere down the teens. The concept sounds interesting a
 I have put the [[https://github.com/TheSolarPrincess/The-Solar-Empire-source][source code]] for my [[file:~/Workspace/muse/README.org::This is the source code of my blog \[\[https://thesolarprincess.site/\]\]][website]] on Github.
 
 [[org-social:https://host.org-social.org/andros/social.org][andros]], you wanted to see it, so I‘m pinging you
+
+** 
+:PROPERTIES:
+:ID: 2025-12-23T20:59:43-0300
+:CLIENT: org-social.el
+:REPLY_TO: https://host.org-social.org/andros/social.org#2025-12-21T11:59:52+0100
+:MOOD: 💀
+:END:
+
+
+** 
+:PROPERTIES:
+:ID: 2025-12-23T21:00:22-0300
+:CLIENT: org-social.el
+:REPLY_TO: https://host.org-social.org/andros/social.org#2025-12-21T11:55:06+0100
+:MOOD: 💗
+:END:
+
