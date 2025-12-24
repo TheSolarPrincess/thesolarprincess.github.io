@@ -442,7 +442,7 @@ I have it on my list, somewhere down the teens. The concept sounds interesting a
 :CLIENT: org-social.el
 :END:
 
-I have put the [[https://github.com/TheSolarPrincess/The-Solar-Empire-source][source code]] for my [[file:~/Workspace/muse/README.org::This is the source code of my blog \[\[https://thesolarprincess.site/\]\]][website]] on Github.
+I have put the [[https://github.com/TheSolarPrincess/The-Solar-Empire-source][source code]] for my website on Github.
 
 [[org-social:https://host.org-social.org/andros/social.org][andros]], you wanted to see it, so I‘m pinging you
 
