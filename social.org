@@ -463,3 +463,14 @@ I have put the [[https://github.com/TheSolarPrincess/The-Solar-Empire-source][so
 :MOOD: 💗
 :END:
 
+
+** 
+:PROPERTIES:
+:ID: 2025-12-25T00:00:41-0300
+:LANG: en
+:CLIENT: org-social.el
+:END:
+
+Merry Christmas, those who celebrate! Did you know that even in though it‘s summer in Argentina now, Santa Claus still [[https://imgur.com/V3YJsr6][wears a coat]]?
+
+I‘ve still got the New Year to celebrate with my secular Russian relatives, and Orthodox Christmas (Jan 7) to celebrate with my Christian Russian relatives. Merry days ahead.
