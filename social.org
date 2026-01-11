@@ -2,7 +2,6 @@
 #+NICK: SolarPrincess
 #+DESCRIPTION: Game designer, LGBT activist, mathematician, Social Justice Rogue, Discordian witch, hobbyist doctor (yes)
 #+AVATAR: https://thesolarprincess.github.io/attachment/images/userpic.png
-#+LINK: https://thesolarprincess.site
 #+LINK:  https://thesolarprincess.github.io
 #+FOLLOW: Andros https://andros.dev/static/social.org
 #+FOLLOW: https://teoten.com/social.org
@@ -476,3 +475,11 @@ Merry Christmas, those who celebrate! Did you know that even in though it‘s su
 [[https://i.imgur.com/pkt5OBY.png]]
 
 I‘ve still got the New Year to celebrate with my secular Russian relatives, and Orthodox Christmas (Jan 7) to celebrate with my Christian Russian relatives. Merry days ahead.
+
+** 
+:PROPERTIES:
+:ID: 2026-01-11T09:42:23-0300
+:CLIENT: org-social.el
+:MIGRATION: https://thesolarprincess.site/social.org https://thesolarprincess.github.io/social.org
+:END:
+
