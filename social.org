@@ -293,7 +293,7 @@ Why are Japanese games like this? Breath of the Wild, Persona, Pikmin, Pokémon,
 :CLIENT: org-social.el
 :END:
 
-So. [[https://thesolarprincess.site/social.org#2025-12-03T19:45:34-0300][That]] was a relatively long post, and it successfully ate my entire timeline screen space. I could theoretically wipe it with a longcat, 2000s style. While I don‘t think there should be post size limits, maybe there should be an optional feature in the client, to clip posts longer than X symbols behind a „read more“ button. That button should just unclip the post and display it in the timeline normally.
+So. [[https://thesolarprincess.github.io/social.org#2025-12-03T19:45:34-0300][That]] was a relatively long post, and it successfully ate my entire timeline screen space. I could theoretically wipe it with a longcat, 2000s style. While I don‘t think there should be post size limits, maybe there should be an optional feature in the client, to clip posts longer than X symbols behind a „read more“ button. That button should just unclip the post and display it in the timeline normally.
 
 
 [[org-social:https://host.org-social.org/andros/social.org][andros]], what do you think?
@@ -483,3 +483,14 @@ I‘ve still got the New Year to celebrate with my secular Russian relatives, an
 :MIGRATION: https://thesolarprincess.site/social.org https://thesolarprincess.github.io/social.org
 :END:
 
+
+** 
+:PROPERTIES:
+:ID: 2026-01-12T18:01:35-0300
+:LANG: en
+:TAGS: 
+:CLIENT: org-social.el
+:MOOD: 
+:END:
+
+Looks like I won‘t be extending my thesolarprincess.site domain, my site‘s going to go back to thesolarprincess.github.io, including the social.org file. I have created the migration post, so I guess it‘s time to check if it works correctly!
