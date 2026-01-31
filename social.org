@@ -494,3 +494,14 @@ I‘ve still got the New Year to celebrate with my secular Russian relatives, an
 :END:
 
 Looks like I won‘t be extending my thesolarprincess.site domain, my site‘s going to go back to thesolarprincess.github.io, including the social.org file. I have created the migration post, so I guess it‘s time to check if it works correctly!
+
+** 
+:PROPERTIES:
+:ID: 2026-01-31T17:31:41-0300
+:LANG: en
+:TAGS: 
+:CLIENT: org-social.el
+:MOOD: 
+:END:
+
+I see no posts in the timeline except my own, even though the client DOES download the feeds I follow... IDK what‘s going on
