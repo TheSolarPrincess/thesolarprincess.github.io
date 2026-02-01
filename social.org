@@ -13,6 +13,10 @@
 #+CONTACT: mailto:tsolarprincess@gmail.com
 #+CONTACT: https://t.me/TSolarPrincess
 
+#+FOLLOW: skrlet13 https://www.skrlet13.xyz/social.org
+#+FOLLOW: johnhamelink https://johnhame.link/social.org
+#+FOLLOW: adsan https://adsan.dev/social.org
+#+FOLLOW: org-social https://host.org-social.org/org-social/social.org
 * Posts
 ** 
 :PROPERTIES:
@@ -505,3 +509,16 @@ Looks like I won‘t be extending my thesolarprincess.site domain, my site‘s g
 :END:
 
 I see no posts in the timeline except my own, even though the client DOES download the feeds I follow... IDK what‘s going on
+
+** 
+:PROPERTIES:
+:ID: 2026-02-01T01:07:11-0300
+:LANG: en
+:TAGS: 
+:CLIENT: org-social.el
+:REPLY_TO: https://raw.githubusercontent.com/fengbainuo/org-social/refs/heads/main/social.org#2026-01-31T23:13:53+0100
+:MOOD: 
+:END:
+
+I saw your post! And no other posts.
+org-social is the lastest version, my social.org validates correctly...
