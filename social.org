@@ -522,3 +522,15 @@ I see no posts in the timeline except my own, even though the client DOES downlo
 
 I saw your post! And no other posts.
 org-social is the lastest version, my social.org validates correctly...
+
+** 2026-02-04T19:13:16-0300
+:PROPERTIES:
+:LANG: en
+:TAGS: 
+:CLIENT: org-social.el
+:REPLY_TO: https://host.org-social.org/andros/social.org#2026-02-01T18:41:33+0100
+:MOOD: 
+:END:
+
+I don‘t have language filtering enabled (you can check my social.org file to see if maybe I missed it).
+Now I see more posts, not sure if the problem is resolved by itself automatically, or I‘m still missing some...
