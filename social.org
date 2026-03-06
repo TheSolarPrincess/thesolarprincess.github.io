@@ -545,3 +545,11 @@ Now I see more posts, not sure if the problem is resolved by itself automaticall
 :END:
 
 Now I don‘t see any posts other than my own! WTF! I miss org-social😭
+
+** 2026-03-06T06:16:24-0300
+:PROPERTIES:
+:LANG: en
+:CLIENT: org-social.el
+:END:
+
+What‘s a good email provider, that gives access to SMTP on a /free/ plan, and is not Google/Microsoft/Apple?
