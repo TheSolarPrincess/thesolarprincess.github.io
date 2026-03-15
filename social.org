@@ -553,3 +553,27 @@ Now I don‘t see any posts other than my own! WTF! I miss org-social😭
 :END:
 
 What‘s a good email provider, that gives access to SMTP on a /free/ plan, and is not Google/Microsoft/Apple?
+
+** 2026-03-08T06:36:32-0300
+:PROPERTIES:
+:LANG: en
+:TAGS: 
+:CLIENT: org-social.el
+:REPLY_TO: https://redbeard83.github.io/social.org#2026-03-07T17:22:17-0300
+:MOOD: 
+:END:
+
+What made you abandon, and then return to, Emacs?
+
+** 2026-03-14T22:14:39-0300
+:PROPERTIES:
+:LANG: en
+:TAGS: emacs
+:CLIENT: org-social.el
+:END:
+
+I love Elfeed. I also compacted a large chunk of my elfeed database into a single file using =elfeed-db-compact=. This created a new problem that kinda screws up my workflow, and I need advice.
+
+Whenever I try to do anything at all with an entry in the compacted part – open, tag, untag, even store link to it (!), elfeed uncompresses the .zip file with the compacted db. This takes a second, and it doesn‘t stay compacted. `next`ing through entires takes 1 second per entry. Adding four tags takes four seconds.
+
+Is there a way to... uncompact the database, or maybe cache the unarchived zip data, or something?
