@@ -577,3 +577,15 @@ I love Elfeed. I also compacted a large chunk of my elfeed database into a singl
 Whenever I try to do anything at all with an entry in the compacted part – open, tag, untag, even store link to it (!), elfeed uncompresses the .zip file with the compacted db. This takes a second, and it doesn‘t stay compacted. `next`ing through entires takes 1 second per entry. Adding four tags takes four seconds.
 
 Is there a way to... uncompact the database, or maybe cache the unarchived zip data, or something?
+
+** 2026-03-16T17:43:05-0300
+:PROPERTIES:
+:LANG: en
+:TAGS: 
+:CLIENT: org-social.el
+:MOOD: 
+:END:
+
+Is it technically possible to have an Emacs window layout like this
+
+https://i.imgur.com/374kplk.png
