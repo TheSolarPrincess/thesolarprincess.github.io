@@ -588,4 +588,4 @@ Is there a way to... uncompact the database, or maybe cache the unarchived zip d
 
 Is it technically possible to have an Emacs window layout like this
 
-https://i.imgur.com/374kplk.png
+[[https://i.imgur.com/374kplk.png]]
