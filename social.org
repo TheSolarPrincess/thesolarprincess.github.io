@@ -589,3 +589,14 @@ Is there a way to... uncompact the database, or maybe cache the unarchived zip d
 Is it technically possible to have an Emacs window layout like this
 
 [[https://i.imgur.com/374kplk.png]]
+
+** 2026-03-19T00:27:20-0300
+:PROPERTIES:
+:LANG: en
+:TAGS: 
+:CLIENT: org-social.el
+:REPLY_TO: https://redbeard83.github.io/social.org#2026-03-18T19:27:35-0300
+:MOOD: 
+:END:
+
+This is the power of an open-source that has been going for decades. Anything that sucks about it, someone fixes it.
