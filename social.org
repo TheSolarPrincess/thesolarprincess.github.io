@@ -600,3 +600,15 @@ Is it technically possible to have an Emacs window layout like this
 :END:
 
 This is the power of an open-source that has been going for decades. Anything that sucks about it, someone fixes it.
+
+** 2026-03-23T01:07:06-0300
+:PROPERTIES:
+:LANG: en
+:TAGS: 
+:CLIENT: org-social.el
+:MOOD: 
+:END:
+
+Random itch.io indie recommendation – Dragonsweeper.
+A minesweeper/dungeon crawler puzzle, playable in browser, I had a lot of fun with it
+https://danielben.itch.io/dragonsweeper
