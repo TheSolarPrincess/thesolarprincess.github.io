@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<!-- 2026-04-12 Sun 20:31 -->
+<!-- 2026-04-17 Fri 23:59 -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Менее бесящий жанр RPG</title>
@@ -32,9 +32,9 @@
 <p>
 Как бы я реализовала инвентарь в игре моей мечты. Сначала идут достаточно общие решения, а потом более радикальные modest proposals.<br>
 </p>
-<div id="outline-container-org3e34fcf" class="outline-2">
-<h2 id="org3e34fcf">Логически разделять разные аспекты игрового процесса</h2>
-<div class="outline-text-2" id="text-org3e34fcf">
+<div id="outline-container-org6fca4e5" class="outline-2">
+<h2 id="org6fca4e5">Логически разделять разные аспекты игрового процесса</h2>
+<div class="outline-text-2" id="text-org6fca4e5">
 <p>
 Почему в Skyrim квестовые предметы лежат в инвентаре? Их нельзя продать, их нельзя выбросить, их нельзя съесть. То, что они лежат между слитками металла и камнями душ – просто мозолит глаза; реальной необходимости в этом нет. Семантически, квестовые предметы не являются предметами – они служат маркерами продвижения по квестам, и потому место им не в инвентаре, а в журнале.<br>
 </p>
@@ -60,9 +60,9 @@
 </p>
 </div>
 </div>
-<div id="outline-container-org61e9ad3" class="outline-2">
-<h2 id="org61e9ad3">Без общей нагрузки</h2>
-<div class="outline-text-2" id="text-org61e9ad3">
+<div id="outline-container-org056fc85" class="outline-2">
+<h2 id="org056fc85">Без общей нагрузки</h2>
+<div class="outline-text-2" id="text-org056fc85">
 <p>
 Нагрузку здесь понимаем в общем смысле – то, что ограничивает количество предметов, которые ты можешь напихать в инвентарь. Может быть как буквальная нагрузка в килограммах, так и количество слотов.<br>
 </p>
@@ -80,9 +80,9 @@
 </p>
 </div>
 </div>
-<div id="outline-container-org45e6439" class="outline-2">
-<h2 id="org45e6439">Четкая индикация полезности предмета</h2>
-<div class="outline-text-2" id="text-org45e6439">
+<div id="outline-container-org43a2762" class="outline-2">
+<h2 id="org43a2762">Четкая индикация полезности предмета</h2>
+<div class="outline-text-2" id="text-org43a2762">
 <p>
 Благо, многие игроделы современности начали это делать. Но не все. Надо быстрее.<br>
 </p>
@@ -100,9 +100,9 @@
 </p>
 </div>
 </div>
-<div id="outline-container-org3ade586" class="outline-2">
-<h2 id="org3ade586">Общий инвентарь пати</h2>
-<div class="outline-text-2" id="text-org3ade586">
+<div id="outline-container-orge066cfa" class="outline-2">
+<h2 id="orge066cfa">Общий инвентарь пати</h2>
+<div class="outline-text-2" id="text-orge066cfa">
 <p>
 Слава Аллаху, самые сообразительные дизайнеры здесь тоже начинают понимать, что так должно быть. В <i>Fallout: New Vegas</i> была абсолютно ненужная механика – компаньоны могли носить предметы, эффективно увеличивая твою максимальную нагрузку, но при этом надо было постоянно играть в инвентори тетрис, перенося предметы из своего инвентаря в чужой, что ухудшалось тем, что интерфейс всего этого был жутко неудобный. В <i>The Outer Worlds</i> сделали лучше – теперь компаньоны все еще увеличивают твой переносимый вес, но напрямую – все предметы кладутся в один котел, между инвентарями переносить ничего не надо.<br>
 </p>
@@ -116,9 +116,9 @@
 </p>
 </div>
 </div>
-<div id="outline-container-org7336ed4" class="outline-2">
-<h2 id="org7336ed4">Переработка vendor trash</h2>
-<div class="outline-text-2" id="text-org7336ed4">
+<div id="outline-container-org8c508c9" class="outline-2">
+<h2 id="org8c508c9">Переработка vendor trash</h2>
+<div class="outline-text-2" id="text-org8c508c9">
 <p>
 Есть целая категория предметов, которые не служат никакой цели, кроме как продать их на рынке после выноса из подземелья. Сама по себе идея норм, но иногда реализуется абсурдно. Вспомним <i>Vampire the Masquerade – Bloodlines</i>. Там нет нагрузки – твой инвентарь вообще ничем не ограничен – но vendor trash есть. Все, что добавляет механика их продажи – несколько лишних кликов у вендора. Единственное осмысленное решение, связанное с этой механикой – подождать с продажей до прокачки навыка Finance, но какой тупой lick прокачивает Finance?<br>
 </p>
@@ -136,15 +136,15 @@
 </p>
 </div>
 </div>
-<div id="outline-container-orgef95350" class="outline-2">
-<h2 id="orgef95350">Нагрузка имеет смысл только в вылазках</h2>
-<div class="outline-text-2" id="text-orgef95350">
+<div id="outline-container-orgc1508c4" class="outline-2">
+<h2 id="orgc1508c4">Нагрузка имеет смысл только в вылазках</h2>
+<div class="outline-text-2" id="text-orgc1508c4">
 <p>
 Как же я была рада, когда в <i>Pathfinder: Wrath of the Righteous</i> сделали так, что на базе нагрузка не учитывается вообще!<br>
 </p>
 
 
-<figure id="org9f2c7a2">
+<figure id="org7f16d57">
 <img src="../../attachment/images/rpg/xkcdyears.png" alt="xkcdyears.png" width="100px" align="center"><br>
 
 </figure>
@@ -154,15 +154,15 @@
 </p>
 </div>
 </div>
-<div id="outline-container-orgb66ac60" class="outline-2">
-<h2 id="orgb66ac60">Косметика идет отдельно от механики</h2>
-<div class="outline-text-2" id="text-orgb66ac60">
+<div id="outline-container-org90c9b87" class="outline-2">
+<h2 id="org90c9b87">Косметика идет отдельно от механики</h2>
+<div class="outline-text-2" id="text-org90c9b87">
 <p>
 Почему во всех RPG я вскоре начинаю выглядеть как дегенератский клоун?! Наверняка не потому же, почему в реальной жизни. А потому что статы шмоток не совпадают с эстетическим чувством. Где-то в районе выхода <i>Mass Effect</i> игроделы хотя бы научились скрывать шлем визуально, не убирая его статы – хорошее начало, хочется иногда видеть фейс своего персонажа, который так аккуратно выверяла. Но надо дальше. Должна быть возможность настроить визуалы персонажа отдельно от статов. Я все еще хочу выглядеть как рога-ассасин в кожаной броне; пусть стеклянная броня по статам лучше и тоже считается легкой, стелс в этом бликующем диско-болле выглядит странно.<br>
 </p>
 
 
-<figure id="org29b9a18">
+<figure id="org99c01cb">
 <img src="../../attachment/images/rpg/peterclown.png" alt="peterclown.png" width="400px" align="center"><br>
 
 </figure>
@@ -180,11 +180,11 @@
 </p>
 </div>
 </div>
-<div id="outline-container-org895009e" class="outline-2">
-<h2 id="org895009e">Экипировка с врагов вообще не лутается</h2>
-<div class="outline-text-2" id="text-org895009e">
+<div id="outline-container-org64c7d63" class="outline-2">
+<h2 id="org64c7d63">Экипировка с врагов вообще не лутается</h2>
+<div class="outline-text-2" id="text-org64c7d63">
 
-<figure id="orgc7bf6c9">
+<figure id="orgd98eb26">
 <img src="../../attachment/images/rpg/blades.png" alt="blades.png" width="400px" align="center"><br>
 
 </figure>
@@ -202,9 +202,9 @@
 </p>
 </div>
 </div>
-<div id="outline-container-org194518a" class="outline-2">
-<h2 id="org194518a">Расходники используются как свободное действие</h2>
-<div class="outline-text-2" id="text-org194518a">
+<div id="outline-container-org78b2a2c" class="outline-2">
+<h2 id="org78b2a2c">Расходники используются как свободное действие</h2>
+<div class="outline-text-2" id="text-org78b2a2c">
 <p>
 (я буду называть эти вещи “зельями”, даже если выглядят они как, например, стимпаки)<br>
 </p>
@@ -222,9 +222,9 @@
 </p>
 </div>
 </div>
-<div id="outline-container-org8060a68" class="outline-2">
-<h2 id="org8060a68">Вынос инвентаря в отдельную подготовку</h2>
-<div class="outline-text-2" id="text-org8060a68">
+<div id="outline-container-orge87bded" class="outline-2">
+<h2 id="orge87bded">Вынос инвентаря в отдельную подготовку</h2>
+<div class="outline-text-2" id="text-orge87bded">
 <p>
 И вот объединяю все названное в один хот тейк. Это не просто изменение инвентаря, это потребует переработать много что, но я думаю, что хотя бы попробовать такую RPG и подумать, будет ли она работать, стоит.<br>
 </p>
