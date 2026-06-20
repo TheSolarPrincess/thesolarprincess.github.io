@@ -612,3 +612,15 @@ This is the power of an open-source that has been going for decades. Anything th
 Random itch.io indie recommendation – Dragonsweeper.
 A minesweeper/dungeon crawler puzzle, playable in browser, I had a lot of fun with it
 https://danielben.itch.io/dragonsweeper
+
+** 2026-06-19T22:39:23-0300
+:PROPERTIES:
+:LANG: en
+:CLIENT: org-social.el
+:END:
+
+I translated [[https://thesolarprincess.github.io/blog/en/shiftingmound.html][View from the Shifting Mound]] to English!
+
+/Slay the Princess/ vessels as complex trauma. Enjoy!
+
+[[https://thesolarprincess.github.io/attachment/shiftingmound/princess.png]]
