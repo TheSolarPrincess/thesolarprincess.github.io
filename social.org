@@ -640,7 +640,9 @@ I bought a half liter of coke, and it felt strangely heavy in my hand. So I look
 ** 2026-06-30T15:51:13-0300
 :PROPERTIES:
 :LANG: en
+:TAGS: 
 :CLIENT: org-social.el
+:MOOD: 
 :END:
 
 My refugee claim has been approved! I now have residence in Argentina, and if I live 2 years there without leaving the country, I can apply for citizenship.
