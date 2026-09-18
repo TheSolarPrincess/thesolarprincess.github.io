@@ -659,3 +659,11 @@ Should Dwarven women in fantasy have beards?
 - [ ] Yes
 - [ ] No
 
+
+** 
+:PROPERTIES:
+:ID: 2026-09-18T20:05:29-0300
+:CLIENT: org-social.el
+:REPLY_TO: http://thesolarprincess.github.io/social.org#2026-09-18T20:00:15-0300
+:POLL_OPTION: Yes
+:END:
