@@ -647,3 +647,15 @@ I bought a half liter of coke, and it felt strangely heavy in my hand. So I look
 
 My refugee claim has been approved! I now have residence in Argentina, and if I live 2 years there without leaving the country, I can apply for citizenship.
 No danger of being deported back to Russia 🥰
+
+** 2026-09-18T20:00:15-0300
+:PROPERTIES:
+:CLIENT: org-social.el
+:POLL_END: 2026-09-25T20:00:15-0300
+:END:
+
+Should Dwarven women in fantasy have beards?
+
+- [ ] Yes
+- [ ] No
+
