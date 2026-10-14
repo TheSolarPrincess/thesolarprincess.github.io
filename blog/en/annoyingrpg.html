@@ -30,9 +30,9 @@
     <br></p>
    <p>Here's how I would implement inventory in my dream CRPG game. First I'll go over some general ideas, then move on to more radical modest proposals. I'm going to use <i>Skyrim</i> as the canonical example of having done the most wrong things, but, of course, it's not the only game committing the corresponding sins.
     <br></p>
-   <div id="outline-container-org5ce3b5a" class="outline-2">
-    <h2 id="org5ce3b5a">Logically Separate Semantically Different Aspects of Gameplay</h2>
-    <div class="outline-text-2" id="text-org5ce3b5a">
+   <div id="outline-container-org7f16d57" class="outline-2">
+    <h2 id="org7f16d57">Logically Separate Semantically Different Aspects of Gameplay</h2>
+    <div class="outline-text-2" id="text-org7f16d57">
      <p>Why does <i>Skyrim</i> store quest items in the inventory? You can't sell them, you can't drop them, and you can't eat them. The fact that they're sitting there alongside metal ingots and soul gems is just annoying; there's no real need for it. Semantically, quest items aren't items — they're markers of quest progression. So they belong in the <i>journal</i>, not in the inventory.
       <br></p>
      <p>And such it is with everything. We mix together semantically different aspects of the game simply because, on the <i>simulationist</i> level, they're all basically “items.” We don't dump, say, potions, spells, and perks together, we put them into different panels and subject to different presentation, because they do different things. Likewise, we shouldn't lump potions, weapons, and vendor trash together. Those do even more different things!
@@ -49,9 +49,9 @@
       <br></p>
     </div>
    </div>
-   <div id="outline-container-org49daa7e" class="outline-2">
-    <h2 id="org49daa7e">Segregated Burden Mechanics</h2>
-    <div class="outline-text-2" id="text-org49daa7e">
+   <div id="outline-container-org99c01cb" class="outline-2">
+    <h2 id="org99c01cb">Segregated Burden Mechanics</h2>
+    <div class="outline-text-2" id="text-org99c01cb">
      <p>Here, I'll use the word “burden” in a broad sense: burden is anything that limits how many items you can stuff into your inventory. It could be based on a literal weight in kilograms, or on a limited number of slots in a grid, or on anything else.
       <br></p>
      <p>Once again, we should separate systems by their mechanical logic. The burden that prevents you from wearing too much heavy armor, the burden that stops you from hoarding potions, and the burden that limits how much loot you can haul out of a dungeon — are all fundamentally different systems. They affect different things and serve different purposes. They shouldn't be lumped together.
@@ -62,9 +62,9 @@
       <br></p>
     </div>
    </div>
-   <div id="outline-container-org39abe17" class="outline-2">
-    <h2 id="org39abe17">Clearly Indicate an Item's Usefulness</h2>
-    <div class="outline-text-2" id="text-org39abe17">
+   <div id="outline-container-orgd98eb26" class="outline-2">
+    <h2 id="orgd98eb26">Clearly Indicate an Item's Usefulness</h2>
+    <div class="outline-text-2" id="text-orgd98eb26">
      <p>Thankfully, modern developers are catching up to this. But not everyone. They all need to hurry up.
       <br></p>
      <p>In <i>Arcanum</i>, figuring out whether an item is useful for crafting, needed for a quest, or can be sold safely is hardly easy. When I played as a technologist, I obsessively hoarded anything that even looked like a crafting component, not having a way to find out if I'd need it later. Eventually, I gave up and looked up all the recipes. It turned out that 80% of it could've been thrown away. My second character was a mage, and I had a much easier time. But then, much later, I found out that some seemingly useless, irreplaceable items were required for the shrines of the gods quest… and so I had to run around from vendor to vendor trying to find the one I sold those items to.
@@ -73,9 +73,9 @@
       <br></p>
     </div>
    </div>
-   <div id="outline-container-org6a03514" class="outline-2">
-    <h2 id="org6a03514">Shared Party Inventory</h2>
-    <div class="outline-text-2" id="text-org6a03514">
+   <div id="outline-container-org7925b9e" class="outline-2">
+    <h2 id="org7925b9e">Shared Party Inventory</h2>
+    <div class="outline-text-2" id="text-org7925b9e">
      <p>Praise be to Allah, the smartest designers are beginning to figure this out, too.
       <br></p>
      <p><i>Skyrim</i> had one completely unnecessary system. Companions could carry items, effectively increasing your total capacity. But to make use of this free capacity, you needed to access their inventory directly, playing inventory Tetris, moving items between your backpack and theirs. This was made worse by the horrible UI. <i>The Outer Worlds</i> handled it better — companions directly increase your carrying capacity, with all items going into one shared pool. No micromanagement required.
@@ -84,9 +84,9 @@
       <br></p>
     </div>
    </div>
-   <div id="outline-container-org8a7486f" class="outline-2">
-    <h2 id="org8a7486f">Reworking Vendor Trash</h2>
-    <div class="outline-text-2" id="text-org8a7486f">
+   <div id="outline-container-orgee35afe" class="outline-2">
+    <h2 id="orgee35afe">Reworking Vendor Trash</h2>
+    <div class="outline-text-2" id="text-orgee35afe">
      <p>Some items serve no purpose other than being sold to a vendor when you get to the town. This is realistic, but at times it's mechanically ridiculous. Take a look at <i>Vampire: The Masquerade — Bloodlines</i>. There's no burden system in that game at all; your inventory has no limits whatsoever. But vendor trash still exists. The only mechanical difference between a vendor trash item and an equivalent sum in cash is a few extra clicks at the vendor. The only “decision” it introduces is whether you want to sell now or after you level up your Finance skill. But come on, what kind of dumbass lick even levels Finance?
       <br></p>
      <p>What should happen instead: vendor trash automatically converts to money when picked up. That's it. Loot exists, hassle doesn't.
@@ -97,12 +97,12 @@
       <br></p>
     </div>
    </div>
-   <div id="outline-container-orgdbeeaa8" class="outline-2">
-    <h2 id="orgdbeeaa8">Burden Only Makes Sense During Missions</h2>
-    <div class="outline-text-2" id="text-orgdbeeaa8">
+   <div id="outline-container-org9639605" class="outline-2">
+    <h2 id="org9639605">Burden Only Makes Sense During Missions</h2>
+    <div class="outline-text-2" id="text-org9639605">
      <p>I was elated when I played <i>Pathfinder: Wrath of the Righteous</i> and saw that burden is completely ignored while you're at the base.
       <br></p>
-     <figure id="org7f16d57">
+     <figure id="org0ce0959">
       <img src="../../attachment/images/rpg/xkcdyears.png" alt="xkcdyears.png" width="100px" align="center">
       <br>
      </figure>
@@ -110,12 +110,12 @@
       <br></p>
     </div>
    </div>
-   <div id="outline-container-org0c409d0" class="outline-2">
-    <h2 id="org0c409d0">Cosmetics and mechanics are separate</h2>
-    <div class="outline-text-2" id="text-org0c409d0">
+   <div id="outline-container-orgb948b55" class="outline-2">
+    <h2 id="orgb948b55">Cosmetics and mechanics are separate</h2>
+    <div class="outline-text-2" id="text-orgb948b55">
      <p>Time after time, I end up looking like a clown who lost a bet. This happens in RPG games, too — why? Usually because the gear with the best stats doesn't match my aesthetic preferences. Around the time <i>Mass Effect</i> came out, devs finally began adding the option to hide your helmet without losing its stat bonuses, which is a good first step. But we should go further. Stats and looks should be logically separated. I want to look like a sleek rogue-assassin in leather armor. I don't care that glass armor also counts as light and has better stats — trying to stealth around dressed like a disco ball feels ridiculous.
       <br></p>
-     <figure id="org99c01cb">
+     <figure id="org7f6f53b">
       <img src="../../attachment/images/rpg/peterclown.png" alt="peterclown.png" width="400px" align="center">
       <br>
      </figure>
@@ -127,10 +127,10 @@
       <br></p>
     </div>
    </div>
-   <div id="outline-container-org16a2f8b" class="outline-2">
-    <h2 id="org16a2f8b">Enemy Gear Shouldn't Be Lootable At All</h2>
-    <div class="outline-text-2" id="text-org16a2f8b">
-     <figure id="orgd98eb26">
+   <div id="outline-container-org2dc1f56" class="outline-2">
+    <h2 id="org2dc1f56">Enemy Gear Shouldn't Be Lootable At All</h2>
+    <div class="outline-text-2" id="text-org2dc1f56">
+     <figure id="org9beed48">
       <img src="../../attachment/images/rpg/blades.png" alt="blades.png" width="400px" align="center">
       <br>
      </figure>
@@ -142,9 +142,9 @@
       <br></p>
     </div>
    </div>
-   <div id="outline-container-org30647ef" class="outline-2">
-    <h2 id="org30647ef">Consumables Should Be Free Actions</h2>
-    <div class="outline-text-2" id="text-org30647ef">
+   <div id="outline-container-orgde0f8b8" class="outline-2">
+    <h2 id="orgde0f8b8">Consumables Should Be Free Actions</h2>
+    <div class="outline-text-2" id="text-orgde0f8b8">
      <p>(For simplicity's sake, I'm going to call these “potions,” even if they're technically stimpacks or whatever.)
       <br></p>
      <p>Compare real-time games like <i>Fallout: New Vegas</i>, where you can chug potions during the pause screen with zero hassle, to turn-based games like <i>OMORI</i>, where using a potion wastes your entire turn. The latter is common in JRPGs, but there's a problem: the real opportunity cost of a potion isn't its price or rarity, it's the turn you just spent. All too often, you should have done something else with your time that doesn't need a potion. So in practice, most potions have an extremely narrow window of usefulness. Anything from the previous tier isn't just less useful — it's fully worthless.
@@ -155,9 +155,9 @@
       <br></p>
     </div>
    </div>
-   <div id="outline-container-org22ea2e4" class="outline-2">
-    <h2 id="org22ea2e4">Make inventory part of the prep phase</h2>
-    <div class="outline-text-2" id="text-org22ea2e4">
+   <div id="outline-container-orgfa898cb" class="outline-2">
+    <h2 id="orgfa898cb">Make inventory part of the prep phase</h2>
+    <div class="outline-text-2" id="text-orgfa898cb">
      <p>Time to tie everything together into one spicy hot take. This isn't just a UI tweak, it's a full-on rework of the RPG inventory formula. But I think it's worth trying at least once, just to see if it works.
       <br></p>
      <p>I propose offloading the whole inventory loadout process into its own dedicated preparation phase, separate from moment-to-moment play.
@@ -168,55 +168,55 @@
       <br></p>
     </div>
    </div>
-   <div id="outline-container-orgba64d6b" class="outline-2">
-    <h2 id="orgba64d6b">Why This Works</h2>
-    <div class="outline-text-2" id="text-orgba64d6b"></div>
-    <div id="outline-container-org6cf7144" class="outline-4">
-     <h4 id="org6cf7144">More Build Variety During the Game</h4>
-     <div class="outline-text-4" id="text-org6cf7144">
+   <div id="outline-container-orgff52af2" class="outline-2">
+    <h2 id="orgff52af2">Why This Works</h2>
+    <div class="outline-text-2" id="text-orgff52af2"></div>
+    <div id="outline-container-org7161a33" class="outline-4">
+     <h4 id="org7161a33">More Build Variety During the Game</h4>
+     <div class="outline-text-4" id="text-org7161a33">
       <p>The prep phase isn't just about picking gear — it's a hub for reshuffling your entire build. Respec your stats, swap spells, hand-pick party members. Suddenly it makes sense to have situational gear, like a holy sword that rends undead but can't scratch a bear.
        <br></p>
      </div>
     </div>
-    <div id="outline-container-org970e8a9" class="outline-4">
-     <h4 id="org970e8a9">Strategic Depth.</h4>
-     <div class="outline-text-4" id="text-org970e8a9">
+    <div id="outline-container-org194cf40" class="outline-4">
+     <h4 id="org194cf40">Strategic Depth.</h4>
+     <div class="outline-text-4" id="text-org194cf40">
       <p>Prepping for each run becomes an actual strategic layer. Pre-scouting and knowing enemy types becomes valuable. <i>The Witcher</i> tried to flirt with this idea and tell us that the strength of a Witcher is in knowing the enemy, but it doesn't actually pay off on a mechanical level. This system would.
        <br></p>
      </div>
     </div>
-    <div id="outline-container-orgb263759" class="outline-4">
-     <h4 id="orgb263759">Reduced Cognitive Load.</h4>
-     <div class="outline-text-4" id="text-orgb263759">
+    <div id="outline-container-org0043671" class="outline-4">
+     <h4 id="org0043671">Reduced Cognitive Load.</h4>
+     <div class="outline-text-4" id="text-org0043671">
       <p>During combat, you think about combat. When it's builds, you think about builds. You don't need to keep context-switching every five seconds. You can enter a proper flow state.
        <br></p>
      </div>
     </div>
-    <div id="outline-container-orgb9febe5" class="outline-4">
-     <h4 id="orgb9febe5">Less Disbalance in Resource Economy</h4>
-     <div class="outline-text-4" id="text-orgb9febe5">
+    <div id="outline-container-org0c8fbd7" class="outline-4">
+     <h4 id="org0c8fbd7">Less Disbalance in Resource Economy</h4>
+     <div class="outline-text-4" id="text-org0c8fbd7">
       <p>In <i>Skyrim</i>, consumable economy collapses very quickly. Either you burn through supplies too fast for them to matter, or you hoard so many that you end the game with a mountain of scrolls and potions you never used. Balancing that so that every possible player is well-paced is basically impossible. But if you can do the math on the resource economy on the per-encounter basis, it becomes much easier and more tractable.
        <br></p>
      </div>
     </div>
-    <div id="outline-container-org6e8b2bf" class="outline-4">
-     <h4 id="org6e8b2bf">Sensible Recovery Mechanics</h4>
-     <div class="outline-text-4" id="text-org6e8b2bf">
+    <div id="outline-container-orga55bdd4" class="outline-4">
+     <h4 id="orga55bdd4">Sensible Recovery Mechanics</h4>
+     <div class="outline-text-4" id="text-orga55bdd4">
       <p>Every game mimicking D&amp;D runs into trouble regarding the limits on “long rests.” Having unlimited long rests obviates a lot of challenges, but choosing a balanced way lo limit it is difficult. But if you return to base between missions anyway, boom — perfect place to recharge spell slots. No weird narrative gymnastics required.
        <br></p>
      </div>
     </div>
-    <div id="outline-container-org0395a28" class="outline-4">
-     <h4 id="org0395a28">Actually Useful Base Building</h4>
-     <div class="outline-text-4" id="text-org0395a28">
+    <div id="outline-container-org1520f12" class="outline-4">
+     <h4 id="org1520f12">Actually Useful Base Building</h4>
+     <div class="outline-text-4" id="text-org1520f12">
       <p>Houses in <i>Skyrim</i> are places where you can store loot and save 10 gold on a tavern. Some people get a kick from walking around from chest to chest inside their giant gold-plated mansion, but I was always fine with the cheapest hovel in Windhelm. Here, bases are more important: they are the places for you to prepare between missions. Just don't get your base-building ideas from <i>Fallout 4</i>. Please.
        <br></p>
      </div>
     </div>
    </div>
-   <div id="outline-container-orgaa9d5f0" class="outline-2">
-    <h2 id="orgaa9d5f0">Afterword for people who confuse simulationism with realism</h2>
-    <div class="outline-text-2" id="text-orgaa9d5f0">
+   <div id="outline-container-org79c4fb7" class="outline-2">
+    <h2 id="org79c4fb7">Afterword for people who confuse simulationism with realism</h2>
+    <div class="outline-text-2" id="text-org79c4fb7">
      <p>If <i>Skyrim</i> required you to sit down and take a poop soon after you eat, complete with a QTE-based butt-wiping mechanic, that would indeed be closer to physical reality, but it would really hurt the <i>fantasy realism</i> of a hero from a Scandinavian myth.
       <br></p>
     </div>
@@ -224,7 +224,9 @@
   </div>
   <div id="postamble" class="status">
    <hr>
-   <a href="https://thesolarprincess.org/blog/ru/annoyingrpg.html" id="permalink" class="u-url" visibility="hidden" aria-hidden="true" tabindex="-1"><img src="/assets/permalink.ico" class="social-icon">Permalink</a><a href="mailto:TheSunWorshipper@proton.me?subject=Re:Towards less annoying RPGs" id="email"><img src="/assets/mail.svg" class="social-icon">Reply by email</a>
+   <button class="like-button" onclick="fetch(&quot;https://likes.tsolarprincess.workers.dev&quot;, { method: &quot;POST&quot; }); this.disabled = true;">❤️‍🔥 I liked this!</button>
+   <br>
+   <a href="https://thesolarprincess.org/blog/en/annoyingrpg.html" id="permalink" class="u-url" visibility="hidden" aria-hidden="true" tabindex="-1"><img src="/assets/permalink.ico" class="social-icon">Permalink</a><a href="mailto:TheSunWorshipper@proton.me?subject=Re:Towards less annoying RPGs" id="email"><img src="/assets/mail.svg" class="social-icon">Reply by email</a>
    <br>
    <a href="https://www.admonymous.co/thesolarprincess"><img src="/assets/anonymous.svg" class="social-icon">Leave anonymous comment</a>
    <br>
