@@ -675,3 +675,15 @@ Should Dwarven women in fantasy have beards?
 :MOOD: 👍
 :END:
 
+
+** 2026-10-15T19:08:03-0300
+:PROPERTIES:
+:TAGS: 
+:CLIENT: org-social.el
+:MOOD: 
+:END:
+
+A blogpost recently appeared on my feed on how you should not use passkeys.
+[[https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them][Passkeys are a trap]]
+
+Anybody who knows more about this thing than me, can confirm/deny?
