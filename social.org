@@ -687,3 +687,13 @@ A blogpost recently appeared on my feed on how you should not use passkeys.
 [[https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them][Passkeys are a trap]]
 
 Anybody who knows more about this thing than me, can confirm/deny?
+
+
+** 2026-10285T19:22:00-0300
+:PROPERTIES:
+:TAGS: blogpost
+:CLIENT: org-social.el
+:MOOD: 
+:END:
+
+New blogpost: [[https://thesolarprincess.org/blog/en/pain-active-ingredient.html][Pain as the active ingredient of game mechanics]]
