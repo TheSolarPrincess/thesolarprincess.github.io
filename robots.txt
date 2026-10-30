@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://thesolarprincess.org/sitemap.html
+Sitemap: https://thesolarprincess.org/sitemap.txt
