@@ -37,10 +37,11 @@ body {
     margin: 20px 0;
     font-style: italic;
   }
+#content #h-card br {display: inline;}
 
   #content br {display: none;}
 #content p br {display: inline;}
-
+#content #h-card br {display: inline;}
   .title  { text-align: center;
              margin-bottom: .2em; }
   .subtitle { text-align: center;
